@@ -67,4 +67,12 @@ recurs.at            V      1 1 PRES ACTIVE  IND 3 S
 recurso, recursare, recursavi, recursatus  V (1st)   [XXXDX]    lesser
 keep rebounding/recoiling; keep recurring to the mind;
 
+que                  TACKON                             
+-que = and (enclitic, translated before attached word); completes plerus/uter;
+Syncope   s => vis   
+Syncopated perfect often drops the 'v' and contracts vowel
+amav.isti            V      1 1 PERF ACTIVE  IND 2 S    
+amo, amare, amavi, amatus  V (1st)   [XXXAO]  
+love, like; fall in love with; be fond of; have a tendency to;
+
 
