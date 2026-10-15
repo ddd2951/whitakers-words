@@ -1626,6 +1626,11 @@ package body Words_Engine.Word_Package is
          J : Integer := 0;
          De : Dictionary_Entry := Null_Dictionary_Entry;
          Entering_Pa_Last : constant Integer := Pa_Last;
+         --  Each attempt looks up Input_Word less a tackon, which overwrites
+         --  PDL; if no additional parse remains, later passes on Input_Word
+         --  rely on PDL holding Input_Word's own hits
+         Saved_Pdl : constant Pruned_Dictionary_List := Pdl;
+         Saved_Pdl_Index : constant Integer := Pdl_Index;
          Start_Of_Loop : constant Integer := 5;
          --  4 enclitics     --  Hard number  !!!!!!!!!!!!!!!
          End_Of_Loop : constant Integer := Number_Of_Tackons;
@@ -1743,6 +1748,11 @@ package body Words_Engine.Word_Package is
                end if;                                     --  LESS is less
             end Remove_A_Tackon;
          end loop Loop_Over_Tackons;
+
+         if Pa_Last = Entering_Pa_Last then
+            Pdl := Saved_Pdl;
+            Pdl_Index := Saved_Pdl_Index;
+         end if;
       end Try_Tackons;
 
    begin                           --  WORD

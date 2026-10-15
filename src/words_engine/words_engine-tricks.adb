@@ -823,6 +823,11 @@ package body Words_Engine.Tricks is
       --  That is called lying with statistics
       S  : constant String (1 .. W'Length) := W;
       Pa_Save : constant Integer := Pa_Last;
+      --  Each attempt looks up a modified spelling, which overwrites PDL;
+      --  if no additional parse remains, later passes on W rely on PDL
+      --  holding W's own hits
+      Saved_Pdl : constant Pruned_Dictionary_List := Pdl;
+      Saved_Pdl_Index : constant Integer := Pdl_Index;
 
       procedure Tword (W : String;
                        Pa : in out Parse_Array; Pa_Last : in out Integer) is
@@ -1058,8 +1063,15 @@ package body Words_Engine.Tricks is
             null;
       end case;   --  if on first letter
 
+      if Pa_Last = Pa_Save then
+         Pdl := Saved_Pdl;
+         Pdl_Index := Saved_Pdl_Index;
+      end if;
+
    exception
       when others  => --  I want to ignore anything that happens in SLURY
+         Pdl := Saved_Pdl;
+         Pdl_Index := Saved_Pdl_Index;
          Pa_Last := Pa_Save;
          Pa (Pa_Last + 1) := Null_Parse_Record;     --  Just to clear the tries
 

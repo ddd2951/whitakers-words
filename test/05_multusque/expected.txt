@@ -67,4 +67,21 @@ recurs.at            V      1 1 PRES ACTIVE  IND 3 S
 recurso, recursare, recursavi, recursatus  V (1st)   [XXXDX]    lesser
 keep rebounding/recoiling; keep recurring to the mind;
 
+Slur in/i~           
+An initial 'in' may be rendered by i~
+immin.et             V      2 1 PRES ACTIVE  IND 3 S    
+immineo, imminere, -, -  V (2nd)   [XXXBX]  
+threaten, be a threat (to); overhang, be imminent; with DAT;
+
+t                    SUFFIX                             
+-ed, having, having a, provided with; -able;
+cott.o               ADJ    1 1 DAT S M POS             
+cott.o               ADJ    1 1 DAT S N POS             
+cott.o               ADJ    1 1 ABL S M POS             
+cott.o               ADJ    1 1 ABL S N POS             
+cos, cotis  N (3rd) F   [XXXCO]  
+flint-stone; whetstone, hone, grinding stone; rocks (pl.); any hard stone (L+S)
+cotes, cotis  N (3rd) F   [XXXBO]  
+rough pointed/detached rock, loose stone; rocks (pl.), cliff, crag; reef;
+
 
