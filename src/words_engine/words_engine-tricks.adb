@@ -135,9 +135,6 @@ package body Words_Engine.Tricks is
          Explain_Syncope
            ("Syncopated perfect often drops the 'v' and contracts vowel ",
             "SYNCOPE  vis at ");
-      end if;
-      --  end loop;   --  over resulting solutions
-      if Pa_Last > Pa_Save + 1  then
          return;
       else
          Pa_Last := Pa_Save;
