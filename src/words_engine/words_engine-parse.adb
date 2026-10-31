@@ -502,10 +502,16 @@ is
    is
       Sypa : Parse_Array (1 .. Syncope_Max) := (others => Null_Parse_Record);
       Sypa_Last : Integer := 0;
+      --  Syncope looks up other spellings, which overwrites PDL; later
+      --  passes on Input_Word rely on PDL holding Input_Word's own hits
+      Saved_Pdl : constant Pruned_Dictionary_List := Pdl;
+      Saved_Pdl_Index : constant Integer := Pdl_Index;
    begin
       Clear_Parse_Array (Sypa); -- FIXME: presumably redundant
       if Words_Mdev (Do_Syncope) and not No_Syncope then
          Syncope (Input_Word, Sypa, Sypa_Last, Xp);
+         Pdl := Saved_Pdl;
+         Pdl_Index := Saved_Pdl_Index;
 
          --  Make syncope another array to avoid PA-LAST = 0 problems
          Pa_Last := Pa_Last + Sypa_Last;
@@ -530,6 +536,11 @@ is
       Save_Do_Only_Fixes : constant Boolean := Words_Mdev (Do_Only_Fixes);
       Enclitic_Limit : Integer := 4;
       Try : constant String := Lower_Case (Input_Word);
+      --  Each attempt looks up Input_Word less an enclitic, which overwrites
+      --  PDL; if none succeeds, later passes on Input_Word rely on PDL
+      --  holding Input_Word's own hits
+      Saved_Pdl : constant Pruned_Dictionary_List := Pdl;
+      Saved_Pdl_Index : constant Integer := Pdl_Index;
    begin
       if Have_Done_Enclitic  then
          return;
@@ -552,7 +563,11 @@ is
             if Less  /= Try  then
                --  LESS is less
                --WORDS_MODE (DO_FIXES) := FALSE;
+               --  PDL holds another word's hits, so look LESS up even in the
+               --  fixes-only pass
+               Words_Mdev (Do_Only_Fixes) := False;
                Word_Package.Word (Less, Pa, Pa_Last);
+               Words_Mdev (Do_Only_Fixes) := Save_Do_Only_Fixes;
 
                if Pa_Last = 0  then
                   Save_Pa_Last := Pa_Last;
@@ -575,7 +590,7 @@ is
                   end if;
                end loop;
 
-               Perform_Syncope (Input_Word, Pa, Pa_Last, Xp);
+               Perform_Syncope (Less, Pa, Pa_Last, Xp);
 
                --  Restore FIXES
                --WORDS_MODE (DO_FIXES) := SAVE_DO_FIXES;
@@ -594,6 +609,9 @@ is
                     Addons, Dict_IO.Count (Tackons (I).MNPC));
 
                   Have_Done_Enclitic := True;
+               else
+                  Pdl := Saved_Pdl;
+                  Pdl_Index := Saved_Pdl_Index;
                end if;
                return;
             end if;
@@ -622,7 +640,9 @@ is
               Subtract_Tackon (Try, Tackons (I));
          begin
             if Less  /= Try  then       --  LESS is less
-               Try_Tricks (Less, Trpa, Trpa_Last, Line_Number, Word_Number, Xp);
+               --  Leave room for the enclitic marker after a full result.
+               Try_Tricks (Less, Trpa (Trpa'First .. Trpa'Last - 1),
+                 Trpa_Last, Line_Number, Word_Number, Xp);
 
                if Trpa_Last > Entering_Trpa_Last  then
                   --  have a possible word
@@ -868,7 +888,9 @@ is
    is
       Pa : Parse_Array (1 .. 100) := (others => Null_Parse_Record);
       Pa_Last : Integer := 0;
-      Trpa : Parse_Array (1 .. Tricks_Max) := (others => Null_Parse_Record);
+      --  Tricks_Max lookup records plus one outer enclitic marker.
+      Trpa : Parse_Array (1 .. Tricks_Max + 1) :=
+        (others => Null_Parse_Record);
       Trpa_Last : Integer := 0;
 
       Entering_Pa_Last : Integer := 0;
@@ -900,8 +922,8 @@ is
          if Words_Mode (Do_Tricks)  then
             Words_Mode (Do_Tricks) := False;
             --  Turn it off so won't be circular
-            Try_Tricks (Input_Word, Trpa, Trpa_Last, Line_Number,
-              Word_Number, Xp);
+            Try_Tricks (Input_Word, Trpa (1 .. Tricks_Max), Trpa_Last,
+              Line_Number, Word_Number, Xp);
             if Trpa_Last = 0  then
                Tricks_Enclitic (Input_Word, Entering_Trpa_Last,
                  Have_Done_Enclitic, Trpa, Trpa_Last, Xp);
@@ -914,8 +936,7 @@ is
          Pa (1 .. Pa_Last) :=
            Pa (1 .. Pa_Last - Trpa_Last) & Trpa (1 .. Trpa_Last);
          --  Add SYPA to PA
-         Trpa (1 .. Tricks_Max) :=
-           (1 .. Tricks_Max => Null_Parse_Record);
+         Clear_Parse_Array (Trpa);
          --  Clean up so it does not repeat
          Trpa_Last := 0;
 

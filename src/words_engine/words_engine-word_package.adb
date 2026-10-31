@@ -158,6 +158,15 @@ package body Words_Engine.Word_Package is
       return True;
    end Equ;
 
+   function Ending_Letter (C : Character) return Character is
+   begin
+      case C is
+         when 'v' => return 'u';
+         when 'j' => return 'i';
+         when others => return C;
+      end case;
+   end Ending_Letter;
+
    procedure Run_Uniques
      (S : in String;
       Pa : in out Parse_Array; Pa_Last : in out Integer)
@@ -211,7 +220,7 @@ package body Words_Engine.Word_Package is
       --  and constructs a STEM_LIST of those that survive SL
       use Lel_Section_Io;
       Word : constant String := Lower_Case (Trim (S));
-      Last_Of_Word : constant Character := Word (Word'Last);
+      Last_Of_Word : constant Character := Ending_Letter (Word (Word'Last));
       Length_Of_Word   : constant Integer := Word'Length;
       Stem_Length  : Integer := 0;
       Pr   : Parse_Record;
@@ -606,6 +615,8 @@ package body Words_Engine.Word_Package is
    is
       Input_Word : constant String  := Lower_Case (Raw_Word);
       Pa_Save    : constant Integer := Pa_Last;
+      Qu_First : Integer := 1;
+      Qu_Last : Integer := 0;
 
       procedure Order_Stems (Sx : in out Sal) is
          use Dict_IO;
@@ -1301,6 +1312,7 @@ package body Words_Engine.Word_Package is
          Sxx : in out Sal)
       is
          J : Integer := 0;
+         Pa_Before : Integer;
          --SXX : SAL;
 
       begin
@@ -1347,8 +1359,10 @@ package body Words_Engine.Word_Package is
             --------------
             if Sxx (1) = Null_Parse_Record  then
                --  We could not find a match with suffix
+               --  A later suffix may clear Sxx after an earlier hit.
+               Pa_Before := Pa_Last;
                Apply_Suffix (Ssa (1 .. Ssa_Max), Sx, Sxx, Pa, Pa_Last);
-               if Sxx (1) = Null_Parse_Record  then
+               if Pa_Last = Pa_Before then
                   --  We could not find a match with suffix
                   ----So try prefixes, Generate a new SAA array, search again
                   ----Need to use the new SSA, modified to include suffixes
@@ -1362,8 +1376,10 @@ package body Words_Engine.Word_Package is
             if Pa_Last = 0  and then  Sxx (1) = Null_Parse_Record  then
                --------------
                if Words_Mode (Do_Fixes)  then
+                  --  A later suffix may clear Sxx after an earlier hit.
+                  Pa_Before := Pa_Last;
                   Apply_Suffix (Ssa (1 .. Ssa_Max), Sx, Sxx, Pa, Pa_Last);
-                  if Sxx (1) = Null_Parse_Record  then
+                  if Pa_Last = Pa_Before then
                      --  We could not find a match with suffix
                      ----So try prefixes, Generate a new SAA array, search again
                      ----Need to use the new SSA, modified to include suffixes
@@ -1401,7 +1417,7 @@ package body Words_Engine.Word_Package is
                Word : String (1 .. Xword'Length) := Xword;
                Packon_Length : constant Integer :=
                  Trim (Packons (K).Tack)'Length;
-               Last_Of_Word : Character := Word (Word'Last);
+               Last_Of_Word : Character := Ending_Letter (Word (Word'Last));
                Length_Of_Word   : constant Integer := Word'Length;
             begin
                Sl := Sl_Nulls;      --  Initialize SL to nulls
@@ -1476,13 +1492,11 @@ package body Words_Engine.Word_Package is
                         Dict_IO.Read (Dict_File (Pdl (J).D_K), De);
                         Mean := De.Mean;
 
-                        -- there is no way this condition can be True;
-                        -- packon_length - 1 /= packon_length
-
                         --  Does attached PACKON agree
                         if Trim (Mean)(1 .. 4) = "(w/-" and then
                           Trim (Mean)(5 .. 4 + Packon_Length) =
-                          Trim (Packons (K).Tack)
+                          Trim (Packons (K).Tack) and then
+                          Trim (Mean)(5 + Packon_Length) = ')'
                         then
                            if Pdl (J).Ds.Part.Pack.Decl =
                              Sl (M).IR.Qual.Pron.Decl
@@ -1535,7 +1549,7 @@ package body Words_Engine.Word_Package is
          Qkey : Stem_Key_Type := 0)
       is
          Word : constant String := Lower_Case (Trim (Input_Word));
-         Last_Of_Word : constant Character := Word (Word'Last);
+         Last_Of_Word : constant Character := Ending_Letter (Word (Word'Last));
          Length_Of_Word   : constant Integer := Word'Length;
          Stem_Length  : Integer := 0;
          M : Integer := 0;
@@ -1626,6 +1640,11 @@ package body Words_Engine.Word_Package is
          J : Integer := 0;
          De : Dictionary_Entry := Null_Dictionary_Entry;
          Entering_Pa_Last : constant Integer := Pa_Last;
+         --  Each attempt looks up Input_Word less a tackon, which overwrites
+         --  PDL; if none is accepted, later passes on Input_Word rely on PDL
+         --  holding Input_Word's own hits
+         Saved_Pdl : constant Pruned_Dictionary_List := Pdl;
+         Saved_Pdl_Index : constant Integer := Pdl_Index;
          Start_Of_Loop : constant Integer := 5;
          --  4 enclitics     --  Hard number  !!!!!!!!!!!!!!!
          End_Of_Loop : constant Integer := Number_Of_Tackons;
@@ -1668,6 +1687,11 @@ package body Words_Engine.Word_Package is
                               --  check PART
                               null;
                               Tackon_On  := False;
+                           elsif Pa (J).IR.Qual.Pofs = Tackon
+                             and then Tackon_On
+                           then
+                              --  Nested tackons share the accepted base.
+                              null;
                            elsif Pa (J).IR.Qual.Pofs =
                              Tackons (I).Entr.Base.Pofs
                            then
@@ -1743,6 +1767,11 @@ package body Words_Engine.Word_Package is
                end if;                                     --  LESS is less
             end Remove_A_Tackon;
          end loop Loop_Over_Tackons;
+
+         if Pa_Last = Entering_Pa_Last then
+            Pdl := Saved_Pdl;
+            Pdl_Index := Saved_Pdl_Index;
+         end if;
       end Try_Tackons;
 
    begin                           --  WORD
@@ -1750,99 +1779,114 @@ package body Words_Engine.Word_Package is
          return;
       end if;
 
-      Run_Uniques (Input_Word, Pa, Pa_Last);
+      --  Direct readings were already collected before a fixes-only pass.
+      if not Words_Mdev (Do_Only_Fixes) then
+         Run_Uniques (Input_Word, Pa, Pa_Last);
+         Qu_First := Pa_Last + 1;
 
-      Qu :
-      declare
-         Pa_Qstart : constant Integer := Pa_Last;
-         Pa_Start : constant Integer := Pa_Last;
-         Saved_Mode_Array : constant Mode_Array := Words_Mode;
-         Qkey : Stem_Key_Type := 0;
+         Qu :
+         declare
+            Pa_Qstart : constant Integer := Pa_Last;
+            Pa_Start : constant Integer := Pa_Last;
+            Saved_Mode_Array : constant Mode_Array := Words_Mode;
+            Qkey : Stem_Key_Type := 0;
 
-      begin       --  QU
-         Tickons (Number_Of_Tickons + 1) := Null_Prefix_Item;
-         Words_Mode  := (others => False);
+         begin       --  QU
+            Tickons (Number_Of_Tickons + 1) := Null_Prefix_Item;
+            Words_Mode  := (others => False);
 
-         for I in 1 .. Number_Of_Tickons + 1  loop
-            declare
-               Q_Word : constant String :=
-                 Trim (Subtract_Tickon (Input_Word, Tickons (I)));
-            begin
-               Pa_Last := Pa_Qstart;
-               Pa (Pa_Last + 1) := Null_Parse_Record;
-               if (I = Number_Of_Tickons + 1)   or else
-                 --  The prefix is a TICKON
-                 (Q_Word /= Input_Word)
-               --  and it matches the start of INPUT_WORD
-               then
-
-                  if I <= Number_Of_Tickons  then        --  Add to PA if
-                     Pa_Last := Pa_Last + 1;
-                     --  So add prefix line to parse array
-                     Pa (Pa_Last).Stem := Head (Tickons (I).Fix, Max_Stem_Size);
-                     Pa (Pa_Last).IR := ((Prefix, Null_Prefix_Record),
-                       0, Null_Ending_Record, X, X);
-                     Pa (Pa_Last).D_K  := Addons;
-                     Pa (Pa_Last).MNPC := Dict_IO.Count (Tickons (I).MNPC);
-                  end if;
-
-                  if Q_Word'Length >= 3   and then   --  qui is shortest QU_PRON
-                    ((Q_Word (Q_Word'First .. Q_Word'First + 1) = "qu")  or
-                    (Q_Word (Q_Word'First .. Q_Word'First + 1) = "cu"))
+            for I in 1 .. Number_Of_Tickons + 1  loop
+               declare
+                  Q_Word : constant String :=
+                    Trim (Subtract_Tickon (Input_Word, Tickons (I)));
+               begin
+                  Pa_Last := Pa_Qstart;
+                  Pa (Pa_Last + 1) := Null_Parse_Record;
+                  if (I = Number_Of_Tickons + 1)   or else
+                    --  The prefix is a TICKON
+                    (Q_Word /= Input_Word)
+                  --  and it matches the start of INPUT_WORD
                   then
-                     if Q_Word (Q_Word'First .. Q_Word'First + 1) = "qu"  then
-                        Qkey := 1;
-                        Process_Qu_Pronouns (Q_Word, Qkey);
-                     elsif Q_Word
-                       (Q_Word'First .. Q_Word'First + 1) = "cu"
-                     then
-                        Qkey := 2;
-                        Process_Qu_Pronouns (Q_Word, Qkey);
+
+                     if I <= Number_Of_Tickons  then        --  Add to PA if
+                        Pa_Last := Pa_Last + 1;
+                        --  So add prefix line to parse array
+                        Pa (Pa_Last).Stem :=
+                          Head (Tickons (I).Fix, Max_Stem_Size);
+                        Pa (Pa_Last).IR := ((Prefix, Null_Prefix_Record),
+                          0, Null_Ending_Record, X, X);
+                        Pa (Pa_Last).D_K  := Addons;
+                        Pa (Pa_Last).MNPC := Dict_IO.Count (Tickons (I).MNPC);
                      end if;
-                     if Pa_Last <= Pa_Qstart + 1 and then Qkey > 0 then
-                        --  If did not find a PACKON
-                        if Q_Word
-                          (Q_Word'First .. Q_Word'First + 1) = "qu"
+
+                     if Q_Word'Length >= 3   and then   --  Shortest QU_PRON
+                       (Equ (Q_Word (Q_Word'First .. Q_Word'First + 1), "qu")
+                        or else
+                        Equ (Q_Word (Q_Word'First .. Q_Word'First + 1), "cu"))
+                     then
+                        if Equ
+                          (Q_Word
+                            (Q_Word'First .. Q_Word'First + 1), "qu")
                         then
-                           Process_Packons (Q_Word);
-                        elsif Q_Word
-                          (Q_Word'First .. Q_Word'First + 1) = "cu"
+                           Qkey := 1;
+                           Process_Qu_Pronouns (Q_Word, Qkey);
+                        elsif Equ
+                          (Q_Word
+                            (Q_Word'First .. Q_Word'First + 1), "cu")
                         then
-                           Process_Packons (Q_Word);
+                           Qkey := 2;
+                           Process_Qu_Pronouns (Q_Word, Qkey);
                         end if;
+                        if Pa_Last <= Pa_Qstart + 1 and then Qkey > 0 then
+                           --  If did not find a PACKON
+                           if Equ
+                             (Q_Word
+                               (Q_Word'First .. Q_Word'First + 1), "qu")
+                           then
+                              Process_Packons (Q_Word);
+                           elsif Equ
+                             (Q_Word
+                               (Q_Word'First .. Q_Word'First + 1), "cu")
+                           then
+                              Process_Packons (Q_Word);
+                           end if;
+                        else
+                           exit;
+                        end if;
+                        if Pa_Last > Pa_Qstart + 1  then
+                           exit;
+                        end if;
+
+                     elsif Input_Word'Length >= 6  then   --  aliQU_PRON
+                        if Equ
+                          (Input_Word
+                            (Input_Word'First .. Input_Word'First + 4), "aliqu")
+                        then
+                           Process_Qu_Pronouns (Input_Word, 1);
+                        elsif Equ
+                          (Input_Word
+                            (Input_Word'First .. Input_Word'First + 4), "alicu")
+                        then
+                           Process_Qu_Pronouns (Input_Word, 2);
+                        end if;
+                     end if;
+
+                     if Pa_Last = Pa_Start + 1  then    --  Nothing found
+                        Pa_Last := Pa_Start;             --  Reset PA_LAST
                      else
                         exit;
                      end if;
-                     if Pa_Last > Pa_Qstart + 1  then
-                        exit;
-                     end if;
-
-                  elsif Input_Word'Length >= 6  then   --  aliqui as aliQU_PRON
-                     if Input_Word
-                       (Input_Word'First .. Input_Word'First + 4) = "aliqu"
-                     then
-                        Process_Qu_Pronouns (Input_Word, 1);
-                     elsif Input_Word
-                       (Input_Word'First .. Input_Word'First + 4) = "alicu"
-                     then
-                        Process_Qu_Pronouns (Input_Word, 2);
-                     end if;
                   end if;
+               end;
+            end loop;
 
-                  if Pa_Last = Pa_Start + 1  then    --  Nothing found
-                     Pa_Last := Pa_Start;             --  Reset PA_LAST
-                  else
-                     exit;
-                  end if;
-               end if;
-            end;
-         end loop;
-
-         Words_Mode := Saved_Mode_Array;
-      exception
-         when others =>
             Words_Mode := Saved_Mode_Array;
-      end Qu;
+         exception
+            when others =>
+               Words_Mode := Saved_Mode_Array;
+         end Qu;
+         Qu_Last := Pa_Last;
+      end if;
 
       --==========================================================
       declare
@@ -1858,6 +1902,18 @@ package body Words_Engine.Word_Package is
          end if;
       end;
       --==========================================================
+
+      --  Keep the lookup gates above unchanged, but put ordinary results
+      --  before the Qu block so they do not inherit its addon markers.
+      if Qu_First <= Qu_Last and then Qu_Last < Pa_Last then
+         declare
+            Qu_Records : constant Parse_Array := Pa (Qu_First .. Qu_Last);
+         begin
+            Pa (Qu_First .. Pa_Last - Qu_Records'Length) :=
+              Pa (Qu_Last + 1 .. Pa_Last);
+            Pa (Pa_Last - Qu_Records'Length + 1 .. Pa_Last) := Qu_Records;
+         end;
+      end if;
 
       if Pa_Last = Pa_Save  then
          Try_Tackons (Input_Word);

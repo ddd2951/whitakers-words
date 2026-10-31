@@ -1,3 +1,4 @@
+Current repo for whitakerlib to pin against, will be removed when upstream have fixes for the same words.
 [Project Website](http://mk270.github.io/whitakers-words/)
 
 WORDS

@@ -68,3 +68,2009 @@ recurso, recursare, recursavi, recursatus  V (1st)   [XXXDX]    lesser
 keep rebounding/recoiling; keep recurring to the mind;
 
 
+=>
+di.e                 N      2 1 VOC S M                 
+dius, dii  N (2nd) M   [DEXFS]    Late  veryrare
+god;
+di.e                 N      5 1 GEN S C                   Early   
+di.e                 N      5 1 ABL S C                 
+dies, diei  N (5th) C   [XXXAO]  
+day; daylight; (sunlit hours); (24 hours from midnight); open sky; weather;
+specific day; day in question; date of letter; festival; lifetime, age; time;
+di.e                 ADJ    1 1 VOC S M POS             
+dius, dia, dium  ADJ   [XEXDO]    lesser
+divine; w/supernatural radiance; divinely inspired; blessed, saint (Latham);
+daylit; charged with brightness of day/daylight;
+e                    SUFFIX                             
+-ly; -ily;  Converting ADJ to ADV
+di.e                 ADV    POS                         
+dius, dia, dium  ADJ   [XEXDO]    lesser
+divine; w/supernatural radiance; divinely inspired; blessed, saint (Latham);
+daylit; charged with brightness of day/daylight;
+*
+
+=>
+magn.e               ADJ    1 1 VOC S M POS             
+magnus, magna -um, major -or -us, maximus -a -um  ADJ   [XXXAO]  
+large/great/big/vast/huge; much; powerful; tall/long/broad; extensive/spacious;
+great (achievement); mighty; distinguished; skilled; bold/confident; proud;
+full/complete/utter/pure; intense; loud; at high price; notable/famous; old;
+e                    SUFFIX                             
+-ly; -ily;  Converting ADJ to ADV
+magn.e               ADV    POS                         
+magnus, magna -um, major -or -us, maximus -a -um  ADJ   [XXXAO]  
+large/great/big/vast/huge; much; powerful; tall/long/broad; extensive/spacious;
+great (achievement); mighty; distinguished; skilled; bold/confident; proud;
+full/complete/utter/pure; intense; loud; at high price; notable/famous; old;
+
+
+=>
+pur.e                ADJ    1 1 VOC S M POS             
+purus, pura -um, purior -or -us, purissimus -a -um  ADJ   [XXXAO]  
+pure, clean, unsoiled; free from defilement/taboo/stain; blameless, innocent;
+chaste, unpolluted by sex; plain/unadulterated; genuine; absolute; refined;
+clear, limpid, free of mist/cloud; ringing (voice); open (land); net; simple;
+pur.e                N      3 2 LOC S N                 
+pur.e                N      3 2 DAT S N                   Early   
+pur.e                N      3 2 ABL S N                 
+pus, puris  N (3rd) N   [XXXCO]  
+pus; foul/corrupt matter (from a sore); bitterness, gall, venom (Cas);
+e                    SUFFIX                             
+-ly; -ily;  Converting ADJ to ADV
+pur.e                ADV    POS                         
+purus, pura -um, purior -or -us, purissimus -a -um  ADJ   [XXXAO]  
+pure, clean, unsoiled; free from defilement/taboo/stain; blameless, innocent;
+chaste, unpolluted by sex; plain/unadulterated; genuine; absolute; refined;
+clear, limpid, free of mist/cloud; ringing (voice); open (land); net; simple;
+
+
+=>
+obscur.e             ADJ    1 1 VOC S M POS             
+obscurus, obscura -um, obscurior -or -us, obscurissimus -a -um  ADJ   [XXXAO]  
+dim, dark, obscure; dusky, shadowy, only faintly/dimly seen; dingy; gloomy;
+not/barely visible, hidden from sight; imperceptible; muted/muffled, inaudible;
+little known, undistinguished/insignificant/humble/obscure (person); secret;
+not open; vague/uncertain/dim/faint, poorly known; unclear; incomprehensible;
+e                    SUFFIX                             
+-ly; -ily;  Converting ADJ to ADV
+obscur.e             ADV    POS                         
+obscurus, obscura -um, obscurior -or -us, obscurissimus -a -um  ADJ   [XXXAO]  
+dim, dark, obscure; dusky, shadowy, only faintly/dimly seen; dingy; gloomy;
+not/barely visible, hidden from sight; imperceptible; muted/muffled, inaudible;
+little known, undistinguished/insignificant/humble/obscure (person); secret;
+not open; vague/uncertain/dim/faint, poorly known; unclear; incomprehensible;
+
+
+=>
+arbust.e             ADJ    1 1 VOC S M POS             
+arbustus, arbusta, arbustum  ADJ   [XAXDO]    lesser
+planted/set with trees; tree covered; trained on trees (vines); tree-;
+of the arbutus (evergreen strawberry); of arbutus wood;
+e                    SUFFIX                             
+-ly; -ily;  Converting ADJ to ADV
+arbust.e             ADV    POS                         
+arbustus, arbusta, arbustum  ADJ   [XAXDO]    lesser
+planted/set with trees; tree covered; trained on trees (vines); tree-;
+of the arbutus (evergreen strawberry); of arbutus wood;
+
+
+=>
+cav.e                N      2 1 VOC S M                 
+cavus, cavi  N (2nd) M   [XXXCO]  
+hole, cavity, depression, pit, opening; cave, burrow; enclosed space; aperture;
+cav.e                ADJ    1 1 VOC S M POS             
+cavus, cava, cavum  ADJ   [XXXAO]  
+hollow, excavated, hollowed out; concave; (of waning moon); enveloping; porous;
+sunken; deep, having deep channel; tubular; having cavity inside (concealing);
+cav.e                V      2 1 PRES ACTIVE  IMP 2 S    
+caveo, cavere, cavi, cautus  V (2nd)   [XXXAO]  
+beware, avoid, take precautions/defensive action; give/get surety; stipulate;
+e                    SUFFIX                             
+-ly; -ily;  Converting ADJ to ADV
+cav.e                ADV    POS                         
+cavus, cava, cavum  ADJ   [XXXAO]  
+hollow, excavated, hollowed out; concave; (of waning moon); enveloping; porous;
+sunken; deep, having deep channel; tubular; having cavity inside (concealing);
+
+
+=>
+que                  TACKON                             
+-que = and (enclitic, translated before attached word); completes plerus/uter;
+di.e                 N      2 1 VOC S M                 
+dius, dii  N (2nd) M   [DEXFS]    Late  veryrare
+god;
+di.e                 N      5 1 GEN S C                   Early   
+di.e                 N      5 1 ABL S C                 
+dies, diei  N (5th) C   [XXXAO]  
+day; daylight; (sunlit hours); (24 hours from midnight); open sky; weather;
+specific day; day in question; date of letter; festival; lifetime, age; time;
+di.e                 ADJ    1 1 VOC S M POS             
+dius, dia, dium  ADJ   [XEXDO]    lesser
+divine; w/supernatural radiance; divinely inspired; blessed, saint (Latham);
+daylit; charged with brightness of day/daylight;
+e                    SUFFIX                             
+-ly; -ily;  Converting ADJ to ADV
+di.e                 ADV    POS                         
+dius, dia, dium  ADJ   [XEXDO]    lesser
+divine; w/supernatural radiance; divinely inspired; blessed, saint (Latham);
+daylit; charged with brightness of day/daylight;
+*
+
+=>
+ne                   TACKON                             
+-ne = is it not that (enclitic); or ...(introduces a question or alternative);
+di.e                 N      2 1 VOC S M                 
+dius, dii  N (2nd) M   [DEXFS]    Late  veryrare
+god;
+di.e                 N      5 1 GEN S C                   Early   
+di.e                 N      5 1 ABL S C                 
+dies, diei  N (5th) C   [XXXAO]  
+day; daylight; (sunlit hours); (24 hours from midnight); open sky; weather;
+specific day; day in question; date of letter; festival; lifetime, age; time;
+di.e                 ADJ    1 1 VOC S M POS             
+dius, dia, dium  ADJ   [XEXDO]    lesser
+divine; w/supernatural radiance; divinely inspired; blessed, saint (Latham);
+daylit; charged with brightness of day/daylight;
+e                    SUFFIX                             
+-ly; -ily;  Converting ADJ to ADV
+di.e                 ADV    POS                         
+dius, dia, dium  ADJ   [XEXDO]    lesser
+divine; w/supernatural radiance; divinely inspired; blessed, saint (Latham);
+daylit; charged with brightness of day/daylight;
+*
+
+=>
+que                  TACKON                             
+-que = and (enclitic, translated before attached word); completes plerus/uter;
+magn.e               ADJ    1 1 VOC S M POS             
+magnus, magna -um, major -or -us, maximus -a -um  ADJ   [XXXAO]  
+large/great/big/vast/huge; much; powerful; tall/long/broad; extensive/spacious;
+great (achievement); mighty; distinguished; skilled; bold/confident; proud;
+full/complete/utter/pure; intense; loud; at high price; notable/famous; old;
+que                  TACKON                             
+-que = and (enclitic, translated before attached word); completes plerus/uter;
+e                    SUFFIX                             
+-ly; -ily;  Converting ADJ to ADV
+magn.e               ADV    POS                         
+magnus, magna -um, major -or -us, maximus -a -um  ADJ   [XXXAO]  
+large/great/big/vast/huge; much; powerful; tall/long/broad; extensive/spacious;
+great (achievement); mighty; distinguished; skilled; bold/confident; proud;
+full/complete/utter/pure; intense; loud; at high price; notable/famous; old;
+
+
+=>
+que                  TACKON                             
+-que = and (enclitic, translated before attached word); completes plerus/uter;
+pur.e                ADJ    1 1 VOC S M POS             
+purus, pura -um, purior -or -us, purissimus -a -um  ADJ   [XXXAO]  
+pure, clean, unsoiled; free from defilement/taboo/stain; blameless, innocent;
+chaste, unpolluted by sex; plain/unadulterated; genuine; absolute; refined;
+clear, limpid, free of mist/cloud; ringing (voice); open (land); net; simple;
+pur.e                N      3 2 LOC S N                 
+pur.e                N      3 2 DAT S N                   Early   
+pur.e                N      3 2 ABL S N                 
+pus, puris  N (3rd) N   [XXXCO]  
+pus; foul/corrupt matter (from a sore); bitterness, gall, venom (Cas);
+que                  TACKON                             
+-que = and (enclitic, translated before attached word); completes plerus/uter;
+e                    SUFFIX                             
+-ly; -ily;  Converting ADJ to ADV
+pur.e                ADV    POS                         
+purus, pura -um, purior -or -us, purissimus -a -um  ADJ   [XXXAO]  
+pure, clean, unsoiled; free from defilement/taboo/stain; blameless, innocent;
+chaste, unpolluted by sex; plain/unadulterated; genuine; absolute; refined;
+clear, limpid, free of mist/cloud; ringing (voice); open (land); net; simple;
+
+
+=>
+que                  TACKON                             
+-que = and (enclitic, translated before attached word); completes plerus/uter;
+obscur.e             ADJ    1 1 VOC S M POS             
+obscurus, obscura -um, obscurior -or -us, obscurissimus -a -um  ADJ   [XXXAO]  
+dim, dark, obscure; dusky, shadowy, only faintly/dimly seen; dingy; gloomy;
+not/barely visible, hidden from sight; imperceptible; muted/muffled, inaudible;
+little known, undistinguished/insignificant/humble/obscure (person); secret;
+not open; vague/uncertain/dim/faint, poorly known; unclear; incomprehensible;
+que                  TACKON                             
+-que = and (enclitic, translated before attached word); completes plerus/uter;
+e                    SUFFIX                             
+-ly; -ily;  Converting ADJ to ADV
+obscur.e             ADV    POS                         
+obscurus, obscura -um, obscurior -or -us, obscurissimus -a -um  ADJ   [XXXAO]  
+dim, dark, obscure; dusky, shadowy, only faintly/dimly seen; dingy; gloomy;
+not/barely visible, hidden from sight; imperceptible; muted/muffled, inaudible;
+little known, undistinguished/insignificant/humble/obscure (person); secret;
+not open; vague/uncertain/dim/faint, poorly known; unclear; incomprehensible;
+
+
+=>
+aure.e               N      2 1 VOC S M                 
+aureus, aurei  N (2nd) M   [XLXCO]  
+gold coin (equivalent to 25 silver denarii at Rome) (120 grains/0.25 oz.);
+aure.e               ADJ    1 1 VOC S M POS             
+aureus, aurea, aureum  ADJ   [XXXBO]  
+of gold, golden; gilded; gold bearing; gleaming like gold; beautiful, splendid;
+e                    SUFFIX                             
+-ly; -ily;  Converting ADJ to ADV
+aure.e               ADV    POS                         
+aureus, aurea, aureum  ADJ   [XXXBO]  
+of gold, golden; gilded; gold bearing; gleaming like gold; beautiful, splendid;
+
+
+=>
+clarissi.me          ADJ    1 1 VOC S M SUPER           
+clarus, clara -um, clarior -or -us, clarissimus -a -um  ADJ   [XXXAO]  
+clear, bright, gleaming; loud, distinct; evident, plain; illustrious, famous;
+clarissime           ADV    SUPER                       
+clare, clarius, clarissime  ADV   [XXXBO]  
+aloud; brightly, clearly; lucidly; with distinction/honor, illustriously;
+
+
+=>
+mi                   ADJ    1 1 VOC S M POS             
+mi  ADJ   [XXXBX]  
+my, mine;
+m.i                  PRON   5 1 VOC S C                 
+m.i                  PRON   5 1 VOC P C                   Late    
+ [XXXAX]  
+I, me (PERS); myself (REFLEX);
+mi                   NUM    2 0 X   X X CARD            
+1001  as a ROMAN NUMERAL;
+*
+
+=>
+puell.a              N      1 1 NOM S F                 
+puell.a              N      1 1 VOC S F                 
+puell.a              N      1 1 ABL S F                 
+puella, puellae  N (1st) F   [XXXBO]  
+girl, (female) child/daughter; maiden; young woman/wife; sweetheart; slavegirl;
+
+
+=>
+Two words            
+May be 2 words combined (famam+nota) If not obvious, probably incorrect
+fam.am               N      1 1 ACC S F                 
+fama, famae  N (1st) F   [XXXAX]  
+rumor; reputation; tradition; fame, public opinion, ill repute; report, news;
+not.a                VPAR   3 1 NOM S F PERF PASSIVE PPL
+not.a                VPAR   3 1 VOC S F PERF PASSIVE PPL
+not.a                VPAR   3 1 ABL S F PERF PASSIVE PPL
+not.a                VPAR   3 1 NOM P N PERF PASSIVE PPL
+not.a                VPAR   3 1 VOC P N PERF PASSIVE PPL
+not.a                VPAR   3 1 ACC P N PERF PASSIVE PPL
+nosco, noscere, novi, notus  V (3rd) TRANS   [XXXAO]  
+get to know; learn, find out; become cognizant of/acquainted/familiar with;
+examine, study, inspect; try (case); recognize, accept as valid/true; recall;
+not.a                N      1 1 NOM S F                 
+not.a                N      1 1 VOC S F                 
+not.a                N      1 1 ABL S F                 
+nota, notae  N (1st) F   [XXXDX]    lesser
+mark, sign, letter, word, writing, spot brand, tattoo-mark;
+not.a                N      2 2 NOM P N                 
+not.a                N      2 2 VOC P N                 
+not.a                N      2 2 ACC P N                 
+notum, noti  N (2nd) N   [XXXDX]    lesser
+notorious facts (pl.); scandal;
+not.a                V      1 1 PRES ACTIVE  IMP 2 S    
+noto, notare, notavi, notatus  V (1st)   [XXXBX]  
+observe; record; brand; write, inscribe;
+not.a                ADJ    1 1 NOM S F POS             
+not.a                ADJ    1 1 VOC S F POS             
+not.a                ADJ    1 1 ABL S F POS             
+not.a                ADJ    1 1 NOM P N POS             
+not.a                ADJ    1 1 VOC P N POS             
+not.a                ADJ    1 1 ACC P N POS             
+notus, nota -um, notior -or -us, notissimus -a -um  ADJ   [XXXAX]  
+well known, familiar, notable, famous, esteemed; notorious, of ill repute;
+not.a                VPAR   3 1 NOM S F PERF PASSIVE PPL
+not.a                VPAR   3 1 VOC S F PERF PASSIVE PPL
+not.a                VPAR   3 1 ABL S F PERF PASSIVE PPL
+not.a                VPAR   3 1 NOM P N PERF PASSIVE PPL
+not.a                VPAR   3 1 VOC P N PERF PASSIVE PPL
+not.a                VPAR   3 1 ACC P N PERF PASSIVE PPL
+novi, novisse, notus  V (3rd) PERFDEF   [XXXDX]    lesser
+know, know of; know how, be able (to); experience;  (PERF form, PRES force);
+know; be familiar/acquainted/conversant with/aware of; accept, recognize;
+*
+
+=>
+que                  TACKON                             
+-que = and (enclitic, translated before attached word); completes plerus/uter;
+Two words            
+May be 2 words combined (famam+nota) If not obvious, probably incorrect
+fam.am               N      1 1 ACC S F                 
+fama, famae  N (1st) F   [XXXAX]  
+rumor; reputation; tradition; fame, public opinion, ill repute; report, news;
+not.a                VPAR   3 1 NOM S F PERF PASSIVE PPL
+not.a                VPAR   3 1 VOC S F PERF PASSIVE PPL
+not.a                VPAR   3 1 ABL S F PERF PASSIVE PPL
+not.a                VPAR   3 1 NOM P N PERF PASSIVE PPL
+not.a                VPAR   3 1 VOC P N PERF PASSIVE PPL
+not.a                VPAR   3 1 ACC P N PERF PASSIVE PPL
+nosco, noscere, novi, notus  V (3rd) TRANS   [XXXAO]  
+get to know; learn, find out; become cognizant of/acquainted/familiar with;
+examine, study, inspect; try (case); recognize, accept as valid/true; recall;
+not.a                N      1 1 NOM S F                 
+not.a                N      1 1 VOC S F                 
+not.a                N      1 1 ABL S F                 
+nota, notae  N (1st) F   [XXXDX]    lesser
+mark, sign, letter, word, writing, spot brand, tattoo-mark;
+not.a                N      2 2 NOM P N                 
+not.a                N      2 2 VOC P N                 
+not.a                N      2 2 ACC P N                 
+notum, noti  N (2nd) N   [XXXDX]    lesser
+notorious facts (pl.); scandal;
+not.a                V      1 1 PRES ACTIVE  IMP 2 S    
+noto, notare, notavi, notatus  V (1st)   [XXXBX]  
+observe; record; brand; write, inscribe;
+not.a                ADJ    1 1 NOM S F POS             
+not.a                ADJ    1 1 VOC S F POS             
+not.a                ADJ    1 1 ABL S F POS             
+not.a                ADJ    1 1 NOM P N POS             
+not.a                ADJ    1 1 VOC P N POS             
+not.a                ADJ    1 1 ACC P N POS             
+notus, nota -um, notior -or -us, notissimus -a -um  ADJ   [XXXAX]  
+well known, familiar, notable, famous, esteemed; notorious, of ill repute;
+not.a                VPAR   3 1 NOM S F PERF PASSIVE PPL
+not.a                VPAR   3 1 VOC S F PERF PASSIVE PPL
+not.a                VPAR   3 1 ABL S F PERF PASSIVE PPL
+not.a                VPAR   3 1 NOM P N PERF PASSIVE PPL
+not.a                VPAR   3 1 VOC P N PERF PASSIVE PPL
+not.a                VPAR   3 1 ACC P N PERF PASSIVE PPL
+novi, novisse, notus  V (3rd) PERFDEF   [XXXDX]    lesser
+know, know of; know how, be able (to); experience;  (PERF form, PRES force);
+know; be familiar/acquainted/conversant with/aware of; accept, recognize;
+*
+
+=>
+ne                   TACKON                             
+-ne = is it not that (enclitic); or ...(introduces a question or alternative);
+Two words            
+May be 2 words combined (famam+nota) If not obvious, probably incorrect
+fam.am               N      1 1 ACC S F                 
+fama, famae  N (1st) F   [XXXAX]  
+rumor; reputation; tradition; fame, public opinion, ill repute; report, news;
+not.a                VPAR   3 1 NOM S F PERF PASSIVE PPL
+not.a                VPAR   3 1 VOC S F PERF PASSIVE PPL
+not.a                VPAR   3 1 ABL S F PERF PASSIVE PPL
+not.a                VPAR   3 1 NOM P N PERF PASSIVE PPL
+not.a                VPAR   3 1 VOC P N PERF PASSIVE PPL
+not.a                VPAR   3 1 ACC P N PERF PASSIVE PPL
+nosco, noscere, novi, notus  V (3rd) TRANS   [XXXAO]  
+get to know; learn, find out; become cognizant of/acquainted/familiar with;
+examine, study, inspect; try (case); recognize, accept as valid/true; recall;
+not.a                N      1 1 NOM S F                 
+not.a                N      1 1 VOC S F                 
+not.a                N      1 1 ABL S F                 
+nota, notae  N (1st) F   [XXXDX]    lesser
+mark, sign, letter, word, writing, spot brand, tattoo-mark;
+not.a                N      2 2 NOM P N                 
+not.a                N      2 2 VOC P N                 
+not.a                N      2 2 ACC P N                 
+notum, noti  N (2nd) N   [XXXDX]    lesser
+notorious facts (pl.); scandal;
+not.a                V      1 1 PRES ACTIVE  IMP 2 S    
+noto, notare, notavi, notatus  V (1st)   [XXXBX]  
+observe; record; brand; write, inscribe;
+not.a                ADJ    1 1 NOM S F POS             
+not.a                ADJ    1 1 VOC S F POS             
+not.a                ADJ    1 1 ABL S F POS             
+not.a                ADJ    1 1 NOM P N POS             
+not.a                ADJ    1 1 VOC P N POS             
+not.a                ADJ    1 1 ACC P N POS             
+notus, nota -um, notior -or -us, notissimus -a -um  ADJ   [XXXAX]  
+well known, familiar, notable, famous, esteemed; notorious, of ill repute;
+not.a                VPAR   3 1 NOM S F PERF PASSIVE PPL
+not.a                VPAR   3 1 VOC S F PERF PASSIVE PPL
+not.a                VPAR   3 1 ABL S F PERF PASSIVE PPL
+not.a                VPAR   3 1 NOM P N PERF PASSIVE PPL
+not.a                VPAR   3 1 VOC P N PERF PASSIVE PPL
+not.a                VPAR   3 1 ACC P N PERF PASSIVE PPL
+novi, novisse, notus  V (3rd) PERFDEF   [XXXDX]    lesser
+know, know of; know how, be able (to); experience;  (PERF form, PRES force);
+know; be familiar/acquainted/conversant with/aware of; accept, recognize;
+*
+
+=>
+ve                   TACKON                             
+-ve = or if you will (enclitic); or as you please; or;             rare
+Two words            
+May be 2 words combined (famam+nota) If not obvious, probably incorrect
+fam.am               N      1 1 ACC S F                 
+fama, famae  N (1st) F   [XXXAX]  
+rumor; reputation; tradition; fame, public opinion, ill repute; report, news;
+not.a                VPAR   3 1 NOM S F PERF PASSIVE PPL
+not.a                VPAR   3 1 VOC S F PERF PASSIVE PPL
+not.a                VPAR   3 1 ABL S F PERF PASSIVE PPL
+not.a                VPAR   3 1 NOM P N PERF PASSIVE PPL
+not.a                VPAR   3 1 VOC P N PERF PASSIVE PPL
+not.a                VPAR   3 1 ACC P N PERF PASSIVE PPL
+nosco, noscere, novi, notus  V (3rd) TRANS   [XXXAO]  
+get to know; learn, find out; become cognizant of/acquainted/familiar with;
+examine, study, inspect; try (case); recognize, accept as valid/true; recall;
+not.a                N      1 1 NOM S F                 
+not.a                N      1 1 VOC S F                 
+not.a                N      1 1 ABL S F                 
+nota, notae  N (1st) F   [XXXDX]    lesser
+mark, sign, letter, word, writing, spot brand, tattoo-mark;
+not.a                N      2 2 NOM P N                 
+not.a                N      2 2 VOC P N                 
+not.a                N      2 2 ACC P N                 
+notum, noti  N (2nd) N   [XXXDX]    lesser
+notorious facts (pl.); scandal;
+not.a                V      1 1 PRES ACTIVE  IMP 2 S    
+noto, notare, notavi, notatus  V (1st)   [XXXBX]  
+observe; record; brand; write, inscribe;
+not.a                ADJ    1 1 NOM S F POS             
+not.a                ADJ    1 1 VOC S F POS             
+not.a                ADJ    1 1 ABL S F POS             
+not.a                ADJ    1 1 NOM P N POS             
+not.a                ADJ    1 1 VOC P N POS             
+not.a                ADJ    1 1 ACC P N POS             
+notus, nota -um, notior -or -us, notissimus -a -um  ADJ   [XXXAX]  
+well known, familiar, notable, famous, esteemed; notorious, of ill repute;
+not.a                VPAR   3 1 NOM S F PERF PASSIVE PPL
+not.a                VPAR   3 1 VOC S F PERF PASSIVE PPL
+not.a                VPAR   3 1 ABL S F PERF PASSIVE PPL
+not.a                VPAR   3 1 NOM P N PERF PASSIVE PPL
+not.a                VPAR   3 1 VOC P N PERF PASSIVE PPL
+not.a                VPAR   3 1 ACC P N PERF PASSIVE PPL
+novi, novisse, notus  V (3rd) PERFDEF   [XXXDX]    lesser
+know, know of; know how, be able (to); experience;  (PERF form, PRES force);
+know; be familiar/acquainted/conversant with/aware of; accept, recognize;
+*
+
+=>
+que                  TACKON                             
+-que = and (enclitic, translated before attached word); completes plerus/uter;
+Two words            
+May be 2 words combined (puellam+nota) If not obvious, probably incorrect
+not.a                VPAR   3 1 NOM S F PERF PASSIVE PPL
+not.a                VPAR   3 1 VOC S F PERF PASSIVE PPL
+not.a                VPAR   3 1 ABL S F PERF PASSIVE PPL
+not.a                VPAR   3 1 NOM P N PERF PASSIVE PPL
+not.a                VPAR   3 1 VOC P N PERF PASSIVE PPL
+not.a                VPAR   3 1 ACC P N PERF PASSIVE PPL
+nosco, noscere, novi, notus  V (3rd) TRANS   [XXXAO]  
+get to know; learn, find out; become cognizant of/acquainted/familiar with;
+examine, study, inspect; try (case); recognize, accept as valid/true; recall;
+not.a                N      1 1 NOM S F                 
+not.a                N      1 1 VOC S F                 
+not.a                N      1 1 ABL S F                 
+nota, notae  N (1st) F   [XXXDX]    lesser
+mark, sign, letter, word, writing, spot brand, tattoo-mark;
+not.a                N      2 2 NOM P N                 
+not.a                N      2 2 VOC P N                 
+not.a                N      2 2 ACC P N                 
+notum, noti  N (2nd) N   [XXXDX]    lesser
+notorious facts (pl.); scandal;
+not.a                V      1 1 PRES ACTIVE  IMP 2 S    
+noto, notare, notavi, notatus  V (1st)   [XXXBX]  
+observe; record; brand; write, inscribe;
+not.a                ADJ    1 1 NOM S F POS             
+not.a                ADJ    1 1 VOC S F POS             
+not.a                ADJ    1 1 ABL S F POS             
+not.a                ADJ    1 1 NOM P N POS             
+not.a                ADJ    1 1 VOC P N POS             
+not.a                ADJ    1 1 ACC P N POS             
+notus, nota -um, notior -or -us, notissimus -a -um  ADJ   [XXXAX]  
+well known, familiar, notable, famous, esteemed; notorious, of ill repute;
+puell.am             N      1 1 ACC S F                 
+puella, puellae  N (1st) F   [XXXBO]  
+girl, (female) child/daughter; maiden; young woman/wife; sweetheart; slavegirl;
+not.a                VPAR   3 1 NOM S F PERF PASSIVE PPL
+not.a                VPAR   3 1 VOC S F PERF PASSIVE PPL
+not.a                VPAR   3 1 ABL S F PERF PASSIVE PPL
+not.a                VPAR   3 1 NOM P N PERF PASSIVE PPL
+not.a                VPAR   3 1 VOC P N PERF PASSIVE PPL
+not.a                VPAR   3 1 ACC P N PERF PASSIVE PPL
+novi, novisse, notus  V (3rd) PERFDEF   [XXXDX]    lesser
+know, know of; know how, be able (to); experience;  (PERF form, PRES force);
+know; be familiar/acquainted/conversant with/aware of; accept, recognize;
+*
+
+=>
+ve                   TACKON                             
+-ve = or if you will (enclitic); or as you please; or;             rare
+Two words            
+May be 2 words combined (rem+nota) If not obvious, probably incorrect
+not.a                VPAR   3 1 NOM S F PERF PASSIVE PPL
+not.a                VPAR   3 1 VOC S F PERF PASSIVE PPL
+not.a                VPAR   3 1 ABL S F PERF PASSIVE PPL
+not.a                VPAR   3 1 NOM P N PERF PASSIVE PPL
+not.a                VPAR   3 1 VOC P N PERF PASSIVE PPL
+not.a                VPAR   3 1 ACC P N PERF PASSIVE PPL
+nosco, noscere, novi, notus  V (3rd) TRANS   [XXXAO]  
+get to know; learn, find out; become cognizant of/acquainted/familiar with;
+examine, study, inspect; try (case); recognize, accept as valid/true; recall;
+not.a                N      1 1 NOM S F                 
+not.a                N      1 1 VOC S F                 
+not.a                N      1 1 ABL S F                 
+nota, notae  N (1st) F   [XXXDX]    lesser
+mark, sign, letter, word, writing, spot brand, tattoo-mark;
+not.a                N      2 2 NOM P N                 
+not.a                N      2 2 VOC P N                 
+not.a                N      2 2 ACC P N                 
+notum, noti  N (2nd) N   [XXXDX]    lesser
+notorious facts (pl.); scandal;
+not.a                V      1 1 PRES ACTIVE  IMP 2 S    
+noto, notare, notavi, notatus  V (1st)   [XXXBX]  
+observe; record; brand; write, inscribe;
+not.a                ADJ    1 1 NOM S F POS             
+not.a                ADJ    1 1 VOC S F POS             
+not.a                ADJ    1 1 ABL S F POS             
+not.a                ADJ    1 1 NOM P N POS             
+not.a                ADJ    1 1 VOC P N POS             
+not.a                ADJ    1 1 ACC P N POS             
+notus, nota -um, notior -or -us, notissimus -a -um  ADJ   [XXXAX]  
+well known, familiar, notable, famous, esteemed; notorious, of ill repute;
+r.em                 N      5 1 ACC S F                 
+res, rei  N (5th) F   [XXXAX]  
+thing; event/affair/business; fact; cause; property; [~ familiaris => property]
+not.a                VPAR   3 1 NOM S F PERF PASSIVE PPL
+not.a                VPAR   3 1 VOC S F PERF PASSIVE PPL
+not.a                VPAR   3 1 ABL S F PERF PASSIVE PPL
+not.a                VPAR   3 1 NOM P N PERF PASSIVE PPL
+not.a                VPAR   3 1 VOC P N PERF PASSIVE PPL
+not.a                VPAR   3 1 ACC P N PERF PASSIVE PPL
+novi, novisse, notus  V (3rd) PERFDEF   [XXXDX]    lesser
+know, know of; know how, be able (to); experience;  (PERF form, PRES force);
+know; be familiar/acquainted/conversant with/aware of; accept, recognize;
+*
+
+=>
+que                  TACKON                             
+-que = and (enclitic, translated before attached word); completes plerus/uter;
+Two words            
+May be 2 words combined (famam+notam) If not obvious, probably incorrect
+fam.am               N      1 1 ACC S F                 
+fama, famae  N (1st) F   [XXXAX]  
+rumor; reputation; tradition; fame, public opinion, ill repute; report, news;
+not.am               VPAR   3 1 ACC S F PERF PASSIVE PPL
+nosco, noscere, novi, notus  V (3rd) TRANS   [XXXAO]  
+get to know; learn, find out; become cognizant of/acquainted/familiar with;
+examine, study, inspect; try (case); recognize, accept as valid/true; recall;
+not.am               N      1 1 ACC S F                 
+nota, notae  N (1st) F   [XXXDX]    lesser
+mark, sign, letter, word, writing, spot brand, tattoo-mark;
+not.am               ADJ    1 1 ACC S F POS             
+notus, nota -um, notior -or -us, notissimus -a -um  ADJ   [XXXAX]  
+well known, familiar, notable, famous, esteemed; notorious, of ill repute;
+not.am               VPAR   3 1 ACC S F PERF PASSIVE PPL
+novi, novisse, notus  V (3rd) PERFDEF   [XXXDX]    lesser
+know, know of; know how, be able (to); experience;  (PERF form, PRES force);
+know; be familiar/acquainted/conversant with/aware of; accept, recognize;
+*
+
+=>
+que                  TACKON                             
+-que = and (enclitic, translated before attached word); completes plerus/uter;
+Two words            
+May be 2 words combined (famam+notae) If not obvious, probably incorrect
+fam.am               N      1 1 ACC S F                 
+fama, famae  N (1st) F   [XXXAX]  
+rumor; reputation; tradition; fame, public opinion, ill repute; report, news;
+not.ae               VPAR   3 1 GEN S F PERF PASSIVE PPL
+not.ae               VPAR   3 1 DAT S F PERF PASSIVE PPL
+not.ae               VPAR   3 1 NOM P F PERF PASSIVE PPL
+not.ae               VPAR   3 1 VOC P F PERF PASSIVE PPL
+nosco, noscere, novi, notus  V (3rd) TRANS   [XXXAO]  
+get to know; learn, find out; become cognizant of/acquainted/familiar with;
+examine, study, inspect; try (case); recognize, accept as valid/true; recall;
+not.ae               N      1 1 GEN S F                 
+not.ae               N      1 1 LOC S F                 
+not.ae               N      1 1 DAT S F                 
+not.ae               N      1 1 NOM P F                 
+not.ae               N      1 1 VOC P F                 
+nota, notae  N (1st) F   [XXXDX]    lesser
+mark, sign, letter, word, writing, spot brand, tattoo-mark;
+not.ae               ADJ    1 1 GEN S F POS             
+not.ae               ADJ    1 1 DAT S F POS             
+not.ae               ADJ    1 1 NOM P F POS             
+not.ae               ADJ    1 1 VOC P F POS             
+notus, nota -um, notior -or -us, notissimus -a -um  ADJ   [XXXAX]  
+well known, familiar, notable, famous, esteemed; notorious, of ill repute;
+not.ae               VPAR   3 1 GEN S F PERF PASSIVE PPL
+not.ae               VPAR   3 1 DAT S F PERF PASSIVE PPL
+not.ae               VPAR   3 1 NOM P F PERF PASSIVE PPL
+not.ae               VPAR   3 1 VOC P F PERF PASSIVE PPL
+novi, novisse, notus  V (3rd) PERFDEF   [XXXDX]    lesser
+know, know of; know how, be able (to); experience;  (PERF form, PRES force);
+know; be familiar/acquainted/conversant with/aware of; accept, recognize;
+*
+
+=>
+que                  TACKON                             
+-que = and (enclitic, translated before attached word); completes plerus/uter;
+Two words            
+May be 2 words combined (famam+notas) If not obvious, probably incorrect
+fam.am               N      1 1 ACC S F                 
+fama, famae  N (1st) F   [XXXAX]  
+rumor; reputation; tradition; fame, public opinion, ill repute; report, news;
+not.as               VPAR   3 1 ACC P F PERF PASSIVE PPL
+nosco, noscere, novi, notus  V (3rd) TRANS   [XXXAO]  
+get to know; learn, find out; become cognizant of/acquainted/familiar with;
+examine, study, inspect; try (case); recognize, accept as valid/true; recall;
+not.as               N      1 1 ACC P F                 
+nota, notae  N (1st) F   [XXXDX]    lesser
+mark, sign, letter, word, writing, spot brand, tattoo-mark;
+not.as               V      1 1 PRES ACTIVE  IND 2 S    
+noto, notare, notavi, notatus  V (1st)   [XXXBX]  
+observe; record; brand; write, inscribe;
+not.as               ADJ    1 1 ACC P F POS             
+notus, nota -um, notior -or -us, notissimus -a -um  ADJ   [XXXAX]  
+well known, familiar, notable, famous, esteemed; notorious, of ill repute;
+not.as               VPAR   3 1 ACC P F PERF PASSIVE PPL
+novi, novisse, notus  V (3rd) PERFDEF   [XXXDX]    lesser
+know, know of; know how, be able (to); experience;  (PERF form, PRES force);
+know; be familiar/acquainted/conversant with/aware of; accept, recognize;
+*
+
+=>xyzzyque                       ========   UNKNOWN    
+
+
+=>
+puell.a              N      1 1 NOM S F                 
+puell.a              N      1 1 VOC S F                 
+puell.a              N      1 1 ABL S F                 
+puella, puellae  N (1st) F   [XXXBO]  
+girl, (female) child/daughter; maiden; young woman/wife; sweetheart; slavegirl;
+
+
+=>
+cumque               TACKON                             
+PACKON w/qui => whoever; whatever; everyone who, all that, anything that;
+qu.ae                PRON   1 0 NOM P F                 
+qu  PACK   [XXXAX]  
+qu.ae                PRON   1 0 NOM S F                 
+(w/-cumque) who/whatever, no matter who/what, in any time/way, however small;
+que                  TACKON                             
+-que = and (enclitic, translated before attached word); completes plerus/uter;
+cum                  TACKON                             
+PACKON w/qui pron with ABL => with what, with whom;
+qu.ae                PRON   1 0 NOM P F                 
+qu  PACK   [XXXAX]  
+(w/-cum) only ABL with whom?, with which?;
+
+
+=>
+quocumque            ADV    POS                         
+quocumque  ADV   [XXXCO]  
+wherever, to/in any place/quarter to which/whatever, whithersoever; anywhere;
+cumque               TACKON                             
+PACKON w/qui => whoever; whatever; everyone who, all that, anything that;
+qu.o                 PRON   1 0 ABL S M                 
+qu.o                 PRON   1 0 ABL S N                 
+qu  PACK   [XXXAX]  
+(w/-cumque) who/whatever, no matter who/what, in any time/way, however small;
+que                  TACKON                             
+-que = and (enclitic, translated before attached word); completes plerus/uter;
+cum                  TACKON                             
+PACKON w/qui pron with ABL => with what, with whom;
+qu.o                 PRON   1 0 ABL S M                 
+qu.o                 PRON   1 0 ABL S N                 
+qu  PACK   [XXXAX]  
+(w/-cum) only ABL with whom?, with which?;
+
+
+=>
+cumque               TACKON                             
+PACKON w/qui => whoever; whatever; everyone who, all that, anything that;
+qu.i                 PRON   1 0 DAT S X                 
+qu.i                 PRON   1 0 NOM P M                 
+qu  PACK   [XXXAX]  
+qu.i                 PRON   1 0 NOM S M                 
+(w/-cumque) who/whatever, no matter who/what, in any time/way, however small;
+que                  TACKON                             
+-que = and (enclitic, translated before attached word); completes plerus/uter;
+cum                  TACKON                             
+PACKON w/qui pron with ABL => with what, with whom;
+qu.i                 PRON   1 0 DAT S X                 
+qu.i                 PRON   1 0 NOM P M                 
+qu  PACK   [XXXAX]  
+(w/-cum) only ABL with whom?, with which?;
+
+
+=>
+cumque               TACKON                             
+PACKON w/qui => whoever; whatever; everyone who, all that, anything that;
+qu.od                PRON   1 0 NOM S N                 
+qu.od                PRON   1 0 ACC S N                 
+qu  PACK   [XXXAX]  
+(w/-cumque) who/whatever, no matter who/what, in any time/way, however small;
+
+
+=>
+quacumque            ADV    POS                         
+quacumque  ADV   [XXXCO]  
+wherever; in whatever part/manner, however; by whatever route/way;
+cumque               TACKON                             
+PACKON w/qui => whoever; whatever; everyone who, all that, anything that;
+qu.a                 PRON   1 0 ABL S F                 
+qu  PACK   [XXXAX]  
+qu.a                 PRON   1 0 NOM P N                 
+qu.a                 PRON   1 0 ACC P N                 
+(w/-cumque) who/whatever, no matter who/what, in any time/way, however small;
+
+
+=>
+cum                  TACKON                             
+PACKON w/qui pron with ABL => with what, with whom;
+qu.ibus              PRON   1 0 DAT P X                 
+qu.ibus              PRON   1 0 ABL P X                 
+qu  PACK   [XXXAX]  
+(w/-cum) only ABL with whom?, with which?;
+
+
+=>
+cum                  TACKON                             
+PACKON w/qui pron with ABL => with what, with whom;
+qu.i                 PRON   1 0 DAT S X                 
+qu.i                 PRON   1 0 NOM P M                 
+qu  PACK   [XXXAX]  
+(w/-cum) only ABL with whom?, with which?;
+
+
+=>
+cum                  TACKON                             
+PACKON w/qui pron with ABL => with what, with whom;
+qu.o                 PRON   1 0 ABL S M                 
+qu.o                 PRON   1 0 ABL S N                 
+qu  PACK   [XXXAX]  
+(w/-cum) only ABL with whom?, with which?;
+
+
+=>
+Two words            
+May be 2 words combined (qua+cum) If not obvious, probably incorrect
+cum                  ADV    POS                         
+cum  ADV   [XXXAO]  
+when, at the time/on each occasion/in the situation that; after; since/although
+as soon; while, as (well as); whereas, in that, seeing that; on/during which;
+cum                  PREP   ABL                         
+cum  PREP  ABL   [XXXAO]  
+with, together/jointly/along/simultaneous with, amid; supporting; attached;
+under command/at the head of; having/containing/including; using/by means of;
+qu.a                 PRON   1 0 NOM S F                 
+qu.a                 PRON   1 0 ABL S F                 
+ [XXXAO]  
+anyone/anybody/anything; whoever you pick; something (or other); any (NOM S);
+any; anyone/anything, any such; unspecified some; (after si/sin/sive/ne);
+qu.a                 PRON   1 0 ABL S F                 
+who; that; which, what; of which kind/degree; person/thing/time/point that;
+anyone/anybody/anything; whoever you pick; something (or other); any (NOM S);
+who/whatever, everyone who, all that, anything that;
+any; anyone/anything, any such; unspecified some; (after si/sin/sive/ne);
+who?, which?, what?; what kind of?;
+qu.a                 PRON   1 0 NOM P N                 
+qu.a                 PRON   1 0 ACC P N                 
+who; that; which, what; of which kind/degree; person/thing/time/point that;
+who/what/which?, what/which one/man/person/thing? what kind/type of?;
+anyone/anybody/anything; whoever you pick; something (or other); any (NOM S);
+who/whatever, everyone who, all that, anything that;
+who?, which?, what?; what kind of?;
+qua                  ADV    POS                         
+qua  ADV   [XXXBX]  
+where; by which route;
+*
+
+=>
+cunque               TACKON                             
+PACKON w/qui => whoever; whatever; everyone who, all that, anything that;
+qu.i                 PRON   1 0 DAT S X                 
+qu.i                 PRON   1 0 NOM P M                 
+qu  PACK   [XXXAX]  
+qu.i                 PRON   1 0 NOM S M                 
+(w/-cunque) who/whatever, no matter who/what, in any time/way, however small;
+
+
+=>
+quocunque            ADV    POS                         
+quocunque  ADV   [XXXCO]  
+wherever, to/in any place/quarter to which/whatever, whithersoever; anywhere;
+cunque               TACKON                             
+PACKON w/qui => whoever; whatever; everyone who, all that, anything that;
+qu.o                 PRON   1 0 ABL S M                 
+qu.o                 PRON   1 0 ABL S N                 
+qu  PACK   [XXXAX]  
+(w/-cunque) who/whatever, no matter who/what, in any time/way, however small;
+
+
+=>
+ne                   TACKON                             
+-ne = is it not that (enclitic); or ...(introduces a question or alternative);
+cum                  TACKON                             
+PACKON w/qui pron with ABL => with what, with whom;
+qu.i                 PRON   1 0 DAT S X                 
+qu.i                 PRON   1 0 NOM P M                 
+qu  PACK   [XXXAX]  
+(w/-cum) only ABL with whom?, with which?;
+
+
+=>
+ve                   TACKON                             
+-ve = or if you will (enclitic); or as you please; or;             rare
+cum                  TACKON                             
+PACKON w/qui pron with ABL => with what, with whom;
+qu.i                 PRON   1 0 DAT S X                 
+qu.i                 PRON   1 0 NOM P M                 
+qu  PACK   [XXXAX]  
+(w/-cum) only ABL with whom?, with which?;
+
+
+=>
+quoque               ADV    POS                         
+quoque  ADV   [XXXAO]  
+likewise/besides/also/too; not only; even/actually; (after word emphasized);
+que                  TACKON                             
+PACKON w/qui => whoever it be; whatever; each, each one; everyone, everything;
+qu.o                 PRON   1 0 ABL S M                 
+qu.o                 PRON   1 0 ABL S N                 
+qu  PACK   [XXXAX]  
+(w/-que) each, each one; every, everybody, everything (more than 2); whatever;
+(w/-que) any; each;
+que                  TACKON                             
+-que = and (enclitic, translated before attached word); completes plerus/uter;
+qu.o                 PRON   1 0 ABL S M                 
+qu.o                 PRON   1 0 ABL S N                 
+who; that; which, what; of which kind/degree; person/thing/time/point that;
+who/what/which?, what/which one/man/person/thing? what kind/type of?;
+who/whatever, everyone who, all that, anything that;
+any; anyone/anything, any such; unspecified some; (after si/sin/sive/ne);
+who?, which?, what?; what kind of?;
+quo                  ADV    POS                         
+quo  ADV   [XXXDX]    lesser
+where, to what place; to what purpose; for which reason, therefore;
+quo                  CONJ                               
+quo  CONJ   [XXXDX]    lesser
+whither, in what place, where;
+
+
+=>
+quam                 TACKON                             
+PACKON w/quis =>  any; any man/person, anybody/anyone, any whatever, anything;
+qu.is                PRON   1 0 DAT P X                 
+qu.is                PRON   1 0 ABL P X                 
+qu  PACK   [XXXAX]  
+qu.is                PRON   1 0 NOM S C                 
+(w/-quam) any, anyone (no pl.) (INDEF) anything; any man, any person;
+
+
+=>
+libet                TACKON                             
+PACKON w/qui-anyone; -whatever; what you will; no matter which;
+qu.i                 PRON   1 0 DAT S X                 
+qu.i                 PRON   1 0 NOM P M                 
+qu  PACK   [XXXDX]    lesser
+(w/-libet) whoever/whatever you please; anyone/anything whatever;
+(w/-libet) whatever, whichever, no matter, what you please; any whatever;
+qu.i                 PRON   1 0 NOM S M                 
+(w/-libet) whoever/whatever you please; anyone/anything whatever;
+(w/-libet) whatever, whichever, no matter, what you please; any whatever;
+
+
+=>
+lubet                TACKON                             
+PACKON w/qui -anyone; -whatever; what you will; no matter which;
+qu.i                 PRON   1 0 DAT S X                 
+qu.i                 PRON   1 0 NOM P M                 
+qu  PACK   [XXXDX]    lesser
+(w/-lubet) whoever/whatever you please; anyone/anything whatever;
+(w/-lubet) whatever, whichever, no matter, what you please; any whatever;
+qu.i                 PRON   1 0 NOM S M                 
+(w/-lubet) whoever/whatever you please; anyone/anything whatever;
+(w/-lubet) whatever, whichever, no matter, what you please; any whatever;
+
+
+=>
+dam                  TACKON                             
+PACKON w/qui => certain; a certain (one); a certain thing;
+qu.i                 PRON   1 0 DAT S X                 
+qu.i                 PRON   1 0 NOM P M                 
+qu  PACK   [XXXBX]  
+qu.i                 PRON   1 0 NOM S M                 
+(w/-dam) certain; as INDEF a certain thing; somebody, one, something;
+
+
+=>
+dam                  TACKON                             
+PACKON w/qui => certain; a certain (one); a certain thing;
+qu.em                PRON   1 0 ACC S M                 
+qu  PACK   [XXXBX]  
+(w/-dam) certain; as INDEF a certain thing; somebody, one, something;
+
+
+=>
+nam                  TACKON                             
+PACKON w/qui => who then/in the world; which, I insist/meant; why/what pray;
+qu.is                PRON   1 0 DAT P X                 
+qu.is                PRON   1 0 ABL P X                 
+qu  PACK   [XXXBX]  
+(w/-nam) who then?; who in the world?;
+(w/-nam) who then; who in the world; which, I insist;
+qu.is                PRON   1 0 NOM S C                 
+(w/-nam) who then?; who in the world?;
+
+
+=>
+piam                 TACKON                             
+PACKON w/qui =>  any/somebody, any, some, any/something;
+qu.is                PRON   1 0 DAT P X                 
+qu.is                PRON   1 0 ABL P X                 
+qu  PACK   [XXXDX]    lesser
+qu.is                PRON   1 0 NOM S C                 
+(w/-piam) any/somebody, any, some, any/something;
+
+
+=>
+vis                  TACKON                             
+PACKON w/qui whoever it be, whomever you please; any/anything whatever;
+qu.i                 PRON   1 0 DAT S X                 
+qu.i                 PRON   1 0 NOM P M                 
+qu  PACK   [XXXDX]    lesser
+qu.i                 PRON   1 0 NOM S M                 
+(w/-vis) any whatever  and INDEF whoever it be, whom you please; any whatever;
+
+
+=>
+cumque               TACKON                             
+-ever/-soever; (for generalized/indefinite force); (what/how -> what/however);
+qual.i               ADJ    3 2 DAT S X POS             
+qual.i               ADJ    3 2 ABL S X POS             
+qualis, qualis, quale  ADJ   [XXXAO]  
+what kind/sort/condition (of); what is (he/it) like; what/how excellent a ...;
+
+
+=>
+puell.a              N      1 1 NOM S F                 
+puell.a              N      1 1 VOC S F                 
+puell.a              N      1 1 ABL S F                 
+puella, puellae  N (1st) F   [XXXBO]  
+girl, (female) child/daughter; maiden; young woman/wife; sweetheart; slavegirl;
+
+
+=>
+tus                  SUFFIX                             
+of _; from the _;
+admetus              ADV    POS                         
+admeo, admeare, admeavi, admeatus  V (1st) INTRANS   [DXXFS]    Late  veryrare
+go to, approach;
+
+
+=>
+ap                   PREFIX                             
+- to, towards, near, for, together (adeo => go to);
+us                   SUFFIX                             
+-ly;
+pius                 ADV    POS                         
+pius, pia -um, -, piissimus -a -um  ADJ   [XXXAO]  
+conscientious; upright; faithful; patriotic/dutiful, respectful; righteous/good
+affectionate, tender, devoted, loyal (to family); pious, devout; holy, godly;
+
+
+=>
+it                   SUFFIX                             
+try to do -, keep doing - (Intensive/Iterative - forcible or iterative action);
+oblinit.o            V      1 1 PRES ACTIVE  IND 1 S    
+oblino, oblinare, oblinavi, oblinatus  V (1st)   [XXXDX]    lesser
+smear over;
+
+
+=>
+ul                   SUFFIX                             
+little, small, -let (Diminutive) target is of gender of root => decl;
+procul.us            N      2 1 NOM S M                 
+procus, proci  N (2nd) M   [XXXDX]    lesser
+wooer, gigolo. suitor; canvasser; noble;
+ul                   SUFFIX                             
+-ulus; of a, pertaining to a, in a condition of, in a state of;
+procul.us            ADJ    1 1 NOM S M POS             
+procus, proci  N (2nd) M   [XXXDX]    lesser
+wooer, gigolo. suitor; canvasser; noble;
+
+
+=>
+i                    SUFFIX                             
+-er, makes adjective comparative;
+praeclari.us         ADJ    0 0 NOM S N COMP            
+praeclari.us         ADJ    0 0 VOC S N COMP            
+praeclari.us         ADJ    0 0 ACC S N COMP            
+praeclarus, praeclara, praeclarum  ADJ   [XXXBX]  
+very clear; splendid; famous; bright, illustrious; noble, distinguished;
+
+
+=>
+as                   PREFIX                             
+- to, towards, near, for, together (adeo => go to);
+i                    SUFFIX                             
+-ness, -es, makes abstract noun;
+syri.a               N      1 1 NOM S F                 
+syri.a               N      1 1 VOC S F                 
+syri.a               N      1 1 ABL S F                 
+Syrus, Syra, Syrum  ADJ   [XXQCS]  
+Syrian, of Syria;
+as                   PREFIX                             
+- to, towards, near, for, together (adeo => go to);
+i                    SUFFIX                             
+art or craft done by the person (abstract noun of person); office of, -ship;
+syri.a               N      1 1 NOM S F                 
+syri.a               N      1 1 VOC S F                 
+syri.a               N      1 1 ABL S F                 
+Syrus, Syri  N (2nd) M   [XXQCO]  
+Syrian, native of Syria; (esp. as a slave); (name of a slave);
+
+
+=>
+que                  TACKON                             
+-que = and (enclitic, translated before attached word); completes plerus/uter;
+tus                  SUFFIX                             
+of _; from the _;
+admetus              ADV    POS                         
+admeo, admeare, admeavi, admeatus  V (1st) INTRANS   [DXXFS]    Late  veryrare
+go to, approach;
+
+
+=>
+que                  TACKON                             
+-que = and (enclitic, translated before attached word); completes plerus/uter;
+ap                   PREFIX                             
+- to, towards, near, for, together (adeo => go to);
+us                   SUFFIX                             
+-ly;
+pius                 ADV    POS                         
+pius, pia -um, -, piissimus -a -um  ADJ   [XXXAO]  
+conscientious; upright; faithful; patriotic/dutiful, respectful; righteous/good
+affectionate, tender, devoted, loyal (to family); pious, devout; holy, godly;
+
+
+=>
+ap                   PREFIX                             
+- to, towards, near, for, together (adeo => go to);
+in                   SUFFIX                             
+-ine; -in; of, pertaining/belonging to; connected with; derived/coming from;
+pennin.um            ADJ    1 1 NOM S N POS             
+pennin.um            ADJ    1 1 VOC S N POS             
+pennin.um            ADJ    1 1 ACC S M POS             
+pennin.um            ADJ    1 1 ACC S N POS             
+penna, pennae  N (1st) F   [XXXBX]  
+feather, wing;
+ap                   PREFIX                             
+- to, towards, near, for, together (adeo => go to);
+in                   SUFFIX                             
+-ing; art or craft (medic.ina = art of doctoring);
+pennin.um            N      1 1 GEN P F                   uncommon
+penna, pennae  N (1st) F   [XXXBX]  
+feather, wing;
+
+
+=>
+inutil.is            ADJ    3 2 NOM S C POS             
+inutil.is            ADJ    3 2 VOC S C POS             
+inutil.is            ADJ    3 2 GEN S X POS             
+inutil.is            ADJ    3 2 ACC P C POS             
+inutilis, inutilis, inutile  ADJ   [XXXBX]  
+useless, unprofitable, inexpedient, disadvantageous; harmful, helpless;
+
+
+=>
+am.ator              V      1 1 FUT  PASSIVE IMP 2 S    
+am.ator              V      1 1 FUT  PASSIVE IMP 3 S    
+amo, amare, amavi, amatus  V (1st)   [XXXAO]  
+love, like; fall in love with; be fond of; have a tendency to;
+amator               N      3 1 NOM S M                 
+amator               N      3 1 VOC S M                 
+amator, amatoris  N (3rd) M   [XXXBO]  
+lover; friend, devotee; enthusiastic admirer/pursuer; one fond of women;
+amateur, dilettante;
+
+
+=>
+puell.a              N      1 1 NOM S F                 
+puell.a              N      1 1 VOC S F                 
+puell.a              N      1 1 ABL S F                 
+puella, puellae  N (1st) F   [XXXBO]  
+girl, (female) child/daughter; maiden; young woman/wife; sweetheart; slavegirl;
+
+
+=>tuscis                         ========   UNKNOWN    
+*
+
+=>nune                           ========   UNKNOWN    
+*
+
+=>procopio                       ========   UNKNOWN    
+*
+
+=>tusco                          ========   UNKNOWN    
+*
+
+=>archimedes                     ========   UNKNOWN    
+*
+
+=>erebo                          ========   UNKNOWN    
+*
+
+=>tuscus                         ========   UNKNOWN    
+
+
+=>nuno                           ========   UNKNOWN    
+
+
+=>
+ap                   PREFIX                             
+- to, towards, near, for, together (adeo => go to);
+us                   SUFFIX                             
+-ly;
+pius                 ADV    POS                         
+pius, pia -um, -, piissimus -a -um  ADJ   [XXXAO]  
+conscientious; upright; faithful; patriotic/dutiful, respectful; righteous/good
+affectionate, tender, devoted, loyal (to family); pious, devout; holy, godly;
+
+
+=>
+que                  TACKON                             
+-que = and (enclitic, translated before attached word); completes plerus/uter;
+Two words            
+May be 2 words combined (famam+nota) If not obvious, probably incorrect
+fam.am               N      1 1 ACC S F                 
+fama, famae  N (1st) F   [XXXAX]  
+rumor; reputation; tradition; fame, public opinion, ill repute; report, news;
+not.a                VPAR   3 1 NOM S F PERF PASSIVE PPL
+not.a                VPAR   3 1 VOC S F PERF PASSIVE PPL
+not.a                VPAR   3 1 ABL S F PERF PASSIVE PPL
+not.a                VPAR   3 1 NOM P N PERF PASSIVE PPL
+not.a                VPAR   3 1 VOC P N PERF PASSIVE PPL
+not.a                VPAR   3 1 ACC P N PERF PASSIVE PPL
+nosco, noscere, novi, notus  V (3rd) TRANS   [XXXAO]  
+get to know; learn, find out; become cognizant of/acquainted/familiar with;
+examine, study, inspect; try (case); recognize, accept as valid/true; recall;
+not.a                N      1 1 NOM S F                 
+not.a                N      1 1 VOC S F                 
+not.a                N      1 1 ABL S F                 
+nota, notae  N (1st) F   [XXXDX]    lesser
+mark, sign, letter, word, writing, spot brand, tattoo-mark;
+not.a                N      2 2 NOM P N                 
+not.a                N      2 2 VOC P N                 
+not.a                N      2 2 ACC P N                 
+notum, noti  N (2nd) N   [XXXDX]    lesser
+notorious facts (pl.); scandal;
+not.a                V      1 1 PRES ACTIVE  IMP 2 S    
+noto, notare, notavi, notatus  V (1st)   [XXXBX]  
+observe; record; brand; write, inscribe;
+not.a                ADJ    1 1 NOM S F POS             
+not.a                ADJ    1 1 VOC S F POS             
+not.a                ADJ    1 1 ABL S F POS             
+not.a                ADJ    1 1 NOM P N POS             
+not.a                ADJ    1 1 VOC P N POS             
+not.a                ADJ    1 1 ACC P N POS             
+notus, nota -um, notior -or -us, notissimus -a -um  ADJ   [XXXAX]  
+well known, familiar, notable, famous, esteemed; notorious, of ill repute;
+not.a                VPAR   3 1 NOM S F PERF PASSIVE PPL
+not.a                VPAR   3 1 VOC S F PERF PASSIVE PPL
+not.a                VPAR   3 1 ABL S F PERF PASSIVE PPL
+not.a                VPAR   3 1 NOM P N PERF PASSIVE PPL
+not.a                VPAR   3 1 VOC P N PERF PASSIVE PPL
+not.a                VPAR   3 1 ACC P N PERF PASSIVE PPL
+novi, novisse, notus  V (3rd) PERFDEF   [XXXDX]    lesser
+know, know of; know how, be able (to); experience;  (PERF form, PRES force);
+know; be familiar/acquainted/conversant with/aware of; accept, recognize;
+*
+
+=>
+puell.a              N      1 1 NOM S F                 
+puell.a              N      1 1 VOC S F                 
+puell.a              N      1 1 ABL S F                 
+puella, puellae  N (1st) F   [XXXBO]  
+girl, (female) child/daughter; maiden; young woman/wife; sweetheart; slavegirl;
+
+
+=>
+nequiquam            ADV    POS                         
+nequiquam  ADV   [XXXBX]  
+in vain;
+ne                   PREFIX                             
+not (introducing negative clause, w/qui); verily, truely  (affirmative particle
+quam                 TACKON                             
+PACKON w/quis =>  any; any man/person, anybody/anyone, any whatever, anything;
+qu.i                 PRON   1 0 DAT S X                 
+qu.i                 PRON   1 0 NOM P M                 
+qu  PACK   [XXXAX]  
+(w/-quam) any, anyone (no pl.) (INDEF) anything; any man, any person;
+
+
+=>
+nequaquam            ADV    POS                         
+nequaquam  ADV   [XXXBX]  
+by no means;
+ne                   PREFIX                             
+not (introducing negative clause, w/qui); verily, truely  (affirmative particle
+quam                 TACKON                             
+PACKON w/quis =>  any; any man/person, anybody/anyone, any whatever, anything;
+qu.a                 PRON   1 0 NOM P N                 
+qu.a                 PRON   1 0 ACC P N                 
+qu  PACK   [XXXAX]  
+(w/-quam) any, anyone (no pl.) (INDEF) anything; any man, any person;
+
+
+=>
+ecquid               ADV    POS                         
+ecquid  ADV   [XXXDX]    lesser
+at all? (interog.);
+ec                   PREFIX                             
+is there any...that? does any? (w/qui, sometimes w/nam) (passionate interrogati
+qu.id                PRON   1 0 NOM S N                 
+qu.id                PRON   1 0 ACC S N                 
+who/what/which?, what/which one/man/person/thing? what kind/type of?;
+anyone/anybody/anything; whoever you pick; something (or other); any (NOM S);
+
+
+=>
+nequam               ADJ    9 9 X   X X POS             
+nequam, undeclined  ADJ   [XXXBO]  
+wicked/licentious/depraved; bad/vile; naughty/roguish; worthless/useless;
+ne                   PREFIX                             
+not (introducing negative clause, w/qui); verily, truely  (affirmative particle
+qu.am                PRON   1 0 ACC S F                 
+who; that; which, what; of which kind/degree; person/thing/time/point that;
+who/what/which?, what/which one/man/person/thing? what kind/type of?;
+who/whatever, everyone who, all that, anything that;
+any; anyone/anything, any such; unspecified some; (after si/sin/sive/ne);
+who?, which?, what?; what kind of?;
+
+
+=>
+nequi.s              V      6 1 PRES ACTIVE  IND 2 S    
+nequeo, nequire, nequivi(ii), nequitus  V   [XXXBX]  
+be unable, cannot;
+nequis               ADV    POS                         
+nequis  ADV   [XXXDX]    lesser
+lest any one;
+ne                   PREFIX                             
+not (introducing negative clause, w/qui); verily, truely  (affirmative particle
+qu.is                PRON   1 0 DAT P X                 
+qu.is                PRON   1 0 ABL P X                 
+who; that; which, what; of which kind/degree; person/thing/time/point that;
+who/what/which?, what/which one/man/person/thing? what kind/type of?;
+who/whatever, everyone who, all that, anything that;
+any; anyone/anything, any such; unspecified some; (after si/sin/sive/ne);
+who?, which?, what?; what kind of?;
+qu.is                PRON   1 0 NOM S C                 
+who/what/which?, what/which one/man/person/thing? what kind/type of?;
+anyone/anybody/anything; whoever you pick; something (or other); any (NOM S);
+
+
+=>
+quoque               ADV    POS                         
+quoque  ADV   [XXXAO]  
+likewise/besides/also/too; not only; even/actually; (after word emphasized);
+que                  TACKON                             
+PACKON w/qui => whoever it be; whatever; each, each one; everyone, everything;
+qu.o                 PRON   1 0 ABL S M                 
+qu.o                 PRON   1 0 ABL S N                 
+qu  PACK   [XXXAX]  
+(w/-que) each, each one; every, everybody, everything (more than 2); whatever;
+(w/-que) any; each;
+que                  TACKON                             
+-que = and (enclitic, translated before attached word); completes plerus/uter;
+qu.o                 PRON   1 0 ABL S M                 
+qu.o                 PRON   1 0 ABL S N                 
+who; that; which, what; of which kind/degree; person/thing/time/point that;
+who/what/which?, what/which one/man/person/thing? what kind/type of?;
+who/whatever, everyone who, all that, anything that;
+any; anyone/anything, any such; unspecified some; (after si/sin/sive/ne);
+who?, which?, what?; what kind of?;
+quo                  ADV    POS                         
+quo  ADV   [XXXDX]    lesser
+where, to what place; to what purpose; for which reason, therefore;
+quo                  CONJ                               
+quo  CONJ   [XXXDX]    lesser
+whither, in what place, where;
+
+
+=>
+quamvis              ADV    POS                         
+quamvis  ADV   [XXXAX]  
+quamvis              CONJ                               
+quamvis  CONJ   [XXXDX]    lesser
+however much; although;
+vis                  TACKON                             
+PACKON w/qui whoever it be, whomever you please; any/anything whatever;
+qu.am                PRON   1 0 ACC S F                 
+qu  PACK   [XXXDX]    lesser
+(w/-vis) any whatever  and INDEF whoever it be, whom you please; any whatever;
+
+
+=>
+que                  TACKON                             
+-que = and (enclitic, translated before attached word); completes plerus/uter;
+nequiquam            ADV    POS                         
+nequiquam  ADV   [XXXBX]  
+in vain;
+ne                   PREFIX                             
+not (introducing negative clause, w/qui); verily, truely  (affirmative particle
+quam                 TACKON                             
+PACKON w/quis =>  any; any man/person, anybody/anyone, any whatever, anything;
+qu.i                 PRON   1 0 DAT S X                 
+qu.i                 PRON   1 0 NOM P M                 
+qu  PACK   [XXXAX]  
+(w/-quam) any, anyone (no pl.) (INDEF) anything; any man, any person;
+
+
+=>
+ec                   PREFIX                             
+is there any...that? does any? (w/qui, sometimes w/nam) (passionate interrogati
+que                  TACKON                             
+PACKON w/qui => whoever it be; whatever; each, each one; everyone, everything;
+qu.id                PRON   1 0 NOM S N                 
+qu.id                PRON   1 0 ACC S N                 
+qu  PACK   [XXXAX]  
+(w/-que) each, each one; every, everybody, everything (more than 2); whatever;
+que                  TACKON                             
+-que = and (enclitic, translated before attached word); completes plerus/uter;
+ecquid               ADV    POS                         
+ecquid  ADV   [XXXDX]    lesser
+at all? (interog.);
+ec                   PREFIX                             
+is there any...that? does any? (w/qui, sometimes w/nam) (passionate interrogati
+qu.id                PRON   1 0 NOM S N                 
+qu.id                PRON   1 0 ACC S N                 
+who/what/which?, what/which one/man/person/thing? what kind/type of?;
+anyone/anybody/anything; whoever you pick; something (or other); any (NOM S);
+
+
+=>
+ne                   PREFIX                             
+not (introducing negative clause, w/qui); verily, truely  (affirmative particle
+quam                 TACKON                             
+PACKON w/quis =>  any; any man/person, anybody/anyone, any whatever, anything;
+qu.is                PRON   1 0 DAT P X                 
+qu.is                PRON   1 0 ABL P X                 
+qu  PACK   [XXXAX]  
+qu.is                PRON   1 0 NOM S C                 
+(w/-quam) any, anyone (no pl.) (INDEF) anything; any man, any person;
+
+
+=>
+ec                   PREFIX                             
+is there any...that? does any? (w/qui, sometimes w/nam) (passionate interrogati
+nam                  TACKON                             
+PACKON w/qui => who then/in the world; which, I insist/meant; why/what pray;
+qu.is                PRON   1 0 DAT P X                 
+qu.is                PRON   1 0 ABL P X                 
+qu  PACK   [XXXBX]  
+(w/-nam) who then?; who in the world?;
+(w/-nam) who then; who in the world; which, I insist;
+qu.is                PRON   1 0 NOM S C                 
+(w/-nam) who then?; who in the world?;
+
+
+=>
+cumque               TACKON                             
+-ever/-soever; (for generalized/indefinite force); (what/how -> what/however);
+qual.i               ADJ    3 2 DAT S X POS             
+qual.i               ADJ    3 2 ABL S X POS             
+qualis, qualis, quale  ADJ   [XXXAO]  
+what kind/sort/condition (of); what is (he/it) like; what/how excellent a ...;
+
+
+=>
+tus                  SUFFIX                             
+of _; from the _;
+admetus              ADV    POS                         
+admeo, admeare, admeavi, admeatus  V (1st) INTRANS   [DXXFS]    Late  veryrare
+go to, approach;
+
+
+=>
+mi                   ADJ    1 1 VOC S M POS             
+mi  ADJ   [XXXBX]  
+my, mine;
+m.i                  PRON   5 1 VOC S C                 
+m.i                  PRON   5 1 VOC P C                   Late    
+ [XXXAX]  
+I, me (PERS); myself (REFLEX);
+mi                   NUM    2 0 X   X X CARD            
+1001  as a ROMAN NUMERAL;
+*
+
+=>
+puell.a              N      1 1 NOM S F                 
+puell.a              N      1 1 VOC S F                 
+puell.a              N      1 1 ABL S F                 
+puella, puellae  N (1st) F   [XXXBO]  
+girl, (female) child/daughter; maiden; young woman/wife; sweetheart; slavegirl;
+
+
+=>
+cv.i                 PRON   1 0 DAT S X                 
+ [XXXAO]  
+who; that; which, what; of which kind/degree; person/thing/time/point that;
+who/what/which?, what/which one/man/person/thing? what kind/type of?;
+who/whatever, everyone who, all that, anything that;
+any; anyone/anything, any such; unspecified some; (after si/sin/sive/ne);
+who?, which?, what?; what kind of?;
+cvi                  NUM    2 0 X   X X CARD            
+106  as a ROMAN NUMERAL;
+
+
+=>
+cvi.us               ADJ    1 1 NOM S M POS             
+cujus, cuja, cujum  ADJ   [XXXCO]  
+of whom?, whose?; (interrogative); of/to whom, whose (relative);
+cv.jus               PRON   1 0 GEN S X                 
+ [XXXAO]  
+who; that; which, what; of which kind/degree; person/thing/time/point that;
+who/what/which?, what/which one/man/person/thing? what kind/type of?;
+who/whatever, everyone who, all that, anything that;
+any; anyone/anything, any such; unspecified some; (after si/sin/sive/ne);
+who?, which?, what?; what kind of?;
+
+
+=>
+cv.i                 PRON   1 0 DAT S X                 
+ [XXXAO]  
+who; that; which, what; of which kind/degree; person/thing/time/point that;
+who/what/which?, what/which one/man/person/thing? what kind/type of?;
+who/whatever, everyone who, all that, anything that;
+any; anyone/anything, any such; unspecified some; (after si/sin/sive/ne);
+who?, which?, what?; what kind of?;
+CVI                  NUM    2 0 X   X X CARD            
+106  as a ROMAN NUMERAL;
+
+
+=>
+cvi.us               ADJ    1 1 NOM S M POS             
+cujus, cuja, cujum  ADJ   [XXXCO]  
+of whom?, whose?; (interrogative); of/to whom, whose (relative);
+cv.jus               PRON   1 0 GEN S X                 
+ [XXXAO]  
+who; that; which, what; of which kind/degree; person/thing/time/point that;
+who/what/which?, what/which one/man/person/thing? what kind/type of?;
+who/whatever, everyone who, all that, anything that;
+any; anyone/anything, any such; unspecified some; (after si/sin/sive/ne);
+who?, which?, what?; what kind of?;
+
+
+=>
+alicv.i              PRON   1 0 DAT S X                 
+ [XXXAO]  
+anyone/anybody/anything; someone; some/few; some (particular) thing;
+some; any; a few; a particular/certain ~; some other; about/like (NUM);
+
+
+=>
+necv.i               V      1 1 PERF ACTIVE  IND 1 S    
+neco, necare, necui, nectus  V (1st) TRANS   [BXXFO]    Early  veryrare
+kill/murder; put to death; suppress, destroy; kill (plant); quench/drown (fire)
+ne                   PREFIX                             
+not (introducing negative clause, w/qui); verily, truely  (affirmative particle
+cv.i                 PRON   1 0 DAT S X                 
+who; that; which, what; of which kind/degree; person/thing/time/point that;
+who/what/which?, what/which one/man/person/thing? what kind/type of?;
+who/whatever, everyone who, all that, anything that;
+any; anyone/anything, any such; unspecified some; (after si/sin/sive/ne);
+who?, which?, what?; what kind of?;
+
+
+=>
+que                  TACKON                             
+PACKON w/qui => whoever it be; whatever; each, each one; everyone, everything;
+cv.i                 PRON   1 0 DAT S X                 
+cv.i                 PRON   1 0 NOM P M                 
+qu  PACK   [XXXAX]  
+(w/-que) each, each one; every, everybody, everything (more than 2); whatever;
+(w/-que) any; each;
+que                  TACKON                             
+-que = and (enclitic, translated before attached word); completes plerus/uter;
+cv.i                 PRON   1 0 DAT S X                 
+who; that; which, what; of which kind/degree; person/thing/time/point that;
+who/what/which?, what/which one/man/person/thing? what kind/type of?;
+who/whatever, everyone who, all that, anything that;
+any; anyone/anything, any such; unspecified some; (after si/sin/sive/ne);
+who?, which?, what?; what kind of?;
+
+
+=>
+cu.i                 PRON   1 0 DAT S X                 
+ [XXXAO]  
+who; that; which, what; of which kind/degree; person/thing/time/point that;
+who/what/which?, what/which one/man/person/thing? what kind/type of?;
+who/whatever, everyone who, all that, anything that;
+any; anyone/anything, any such; unspecified some; (after si/sin/sive/ne);
+who?, which?, what?; what kind of?;
+
+
+=>
+cui.us               ADJ    1 1 NOM S M POS             
+cujus, cuja, cujum  ADJ   [XXXCO]  
+of whom?, whose?; (interrogative); of/to whom, whose (relative);
+cu.jus               PRON   1 0 GEN S X                 
+ [XXXAO]  
+who; that; which, what; of which kind/degree; person/thing/time/point that;
+who/what/which?, what/which one/man/person/thing? what kind/type of?;
+who/whatever, everyone who, all that, anything that;
+any; anyone/anything, any such; unspecified some; (after si/sin/sive/ne);
+who?, which?, what?; what kind of?;
+
+
+=>
+qu.i                 PRON   1 0 NOM P M                 
+ [XXXAO]  
+who; that; which, what; of which kind/degree; person/thing/time/point that;
+who/what/which?, what/which one/man/person/thing? what kind/type of?;
+who/whatever, everyone who, all that, anything that;
+any; anyone/anything, any such; unspecified some; (after si/sin/sive/ne);
+who?, which?, what?; what kind of?;
+qu.i                 PRON   1 0 NOM S M                 
+who; that; which, what; of which kind/degree; person/thing/time/point that;
+who/whatever, everyone who, all that, anything that;
+any; anyone/anything, any such; unspecified some; (after si/sin/sive/ne);
+who?, which?, what?; what kind of?;
+qui                  V      6 1 PRES ACTIVE  IMP 2 S    
+queo, quire, quivi(ii), quitus  V   [XXXBX]  
+be able;
+qui                  ADV    POS                         
+qui  ADV   [XXXAO]  
+how?; how so; in what way; by what/which means; whereby; at whatever price;
+
+
+=>
+qu.is                PRON   1 0 DAT P X                 
+qu.is                PRON   1 0 ABL P X                 
+ [XXXAO]  
+who; that; which, what; of which kind/degree; person/thing/time/point that;
+who/what/which?, what/which one/man/person/thing? what kind/type of?;
+who/whatever, everyone who, all that, anything that;
+any; anyone/anything, any such; unspecified some; (after si/sin/sive/ne);
+who?, which?, what?; what kind of?;
+qu.is                PRON   1 0 NOM S C                 
+who/what/which?, what/which one/man/person/thing? what kind/type of?;
+anyone/anybody/anything; whoever you pick; something (or other); any (NOM S);
+qui.s                V      6 1 PRES ACTIVE  IND 2 S    
+queo, quire, quivi(ii), quitus  V   [XXXBX]  
+be able;
+
+
+=>
+cu.i                 PRON   1 0 DAT S X                 
+ [XXXAO]  
+who; that; which, what; of which kind/degree; person/thing/time/point that;
+who/what/which?, what/which one/man/person/thing? what kind/type of?;
+who/whatever, everyone who, all that, anything that;
+any; anyone/anything, any such; unspecified some; (after si/sin/sive/ne);
+who?, which?, what?; what kind of?;
+
+
+=>
+puell.a              N      1 1 NOM S F                 
+puell.a              N      1 1 VOC S F                 
+puell.a              N      1 1 ABL S F                 
+puella, puellae  N (1st) F   [XXXBO]  
+girl, (female) child/daughter; maiden; young woman/wife; sweetheart; slavegirl;
+
+
+=>
+modi                 TACKON                             
+TACKON w/GEN of ~ kind, sort, nature; (w/hic); [huiusmodi => of this sort];
+ce                   TACKON                             
+TACKON w/hic this;
+hu.ius               PRON   3 1 GEN S X                 
+hic, haec, hoc  PRON   [XXXAX]  
+this; these (pl.); (also DEMONST);
+
+
+=>
+que                  TACKON                             
+-que = and (enclitic, translated before attached word); completes plerus/uter;
+modi                 TACKON                             
+TACKON w/GEN of ~ kind, sort, nature; (w/hic); [huiusmodi => of this sort];
+ce                   TACKON                             
+TACKON w/hic this;
+hu.ius               PRON   3 1 GEN S X                 
+hic, haec, hoc  PRON   [XXXAX]  
+this; these (pl.); (also DEMONST);
+
+
+=>
+modi                 TACKON                             
+TACKON w/GEN of ~ kind, sort, nature; (w/hic); [huiusmodi => of this sort];
+ce                   TACKON                             
+TACKON w/hic this;
+hu.ius               PRON   3 1 GEN S X                 
+hic, haec, hoc  PRON   [XXXAX]  
+this; these (pl.); (also DEMONST);
+
+
+=>
+modi                 TACKON                             
+TACKON w/GEN of ~ kind, sort, nature; (w/hic); [huiusmodi => of this sort];
+ce                   TACKON                             
+TACKON w/hic this;
+TACKON w/hic this;
+hu.ius               PRON   3 1 GEN S X                 
+hic, haec, hoc  PRON   [XXXAX]  
+this; these (pl.); (also DEMONST);
+
+
+=>
+ce                   TACKON                             
+TACKON w/hic this;
+hu.ius               PRON   3 1 GEN S X                 
+hic, haec, hoc  PRON   [XXXAX]  
+this; these (pl.); (also DEMONST);
+
+
+=>
+modi                 TACKON                             
+TACKON w/GEN of ~ kind, sort, nature; (w/hic); [huiusmodi => of this sort];
+hu.ius               PRON   3 1 GEN S X                 
+hic, haec, hoc  PRON   [XXXAX]  
+this; these (pl.); (also DEMONST);
+
+
+=>
+ce                   TACKON                             
+TACKON w/hic this;
+h.oc                 PRON   3 1 NOM S N                 
+h.oc                 PRON   3 1 ABL S M                 
+h.oc                 PRON   3 1 ABL S N                 
+h.oc                 PRON   3 1 ACC S N                 
+hic, haec, hoc  PRON   [XXXAX]  
+this; these (pl.); (also DEMONST);
+
+
+=>cuiusce                        ========   UNKNOWN    
+
+
+=>eiuscemodi                     ========   UNKNOWN    
+
+
+=>
+senat.u              N      4 1 ABL S M                 
+senatus, senatus  N (4th) M   [XXXAX]  
+senate;
+*
+
+=>
+senat.u              N      4 1 ABL S M                 
+senatus, senatus  N (4th) M   [XXXAX]  
+senate;
+*
+
+=>
+mot.u                N      4 1 ABL S M                 
+motus, motus  N (4th) M   [XXXBX]  
+movement, motion; riot, commotion, disturbance; gesture; emotion;
+mot.u                SUPINE 2 1 ABL S N                 
+moveo, movere, movi, motus  V (2nd)   [XXXAX]  
+move, stir, agitate, affect, provoke, disturb;  [movere se => dance];
+*
+
+=>
+man.u                N      4 1 ABL S F                 
+manus, manus  N (4th) F   [XXXAX]  
+hand, fist; team; gang, band of soldiers; handwriting; (elephant's) trunk;
+*
+
+=>
+dvct.u               SUPINE 3 1 ABL S N                 
+duco, ducere, duxi, ductus  V (3rd)   [XXXAX]  
+lead, command; think, consider, regard; prolong;
+dvct.u               N      4 1 ABL S M                 
+ductus, ductus  N (4th) M   [XXXDX]    lesser
+conducting; generalship;
+*
+
+=>
+senat.u              N      4 1 ABL S M                 
+senatus, senatus  N (4th) M   [XXXAX]  
+senate;
+*
+
+=>
+mot.u                N      4 1 ABL S M                 
+motus, motus  N (4th) M   [XXXBX]  
+movement, motion; riot, commotion, disturbance; gesture; emotion;
+mot.u                SUPINE 2 1 ABL S N                 
+moveo, movere, movi, motus  V (2nd)   [XXXAX]  
+move, stir, agitate, affect, provoke, disturb;  [movere se => dance];
+*
+
+=>
+man.u                N      4 1 ABL S F                 
+manus, manus  N (4th) F   [XXXAX]  
+hand, fist; team; gang, band of soldiers; handwriting; (elephant's) trunk;
+*
+
+=>
+duct.u               SUPINE 3 1 ABL S N                 
+duco, ducere, duxi, ductus  V (3rd)   [XXXAX]  
+lead, command; think, consider, regard; prolong;
+duct.u               N      4 1 ABL S M                 
+ductus, ductus  N (4th) M   [XXXDX]    lesser
+conducting; generalship;
+*
+
+=>
+fil.i                N      2 2 GEN S N                 
+fil.i                N      2 2 LOC S N                 
+filum, fili  N (2nd) N   [XXXBX]  
+thread, string, filament, fiber; texture, style, nature;
+filj                 N      2 5 VOC S M                 
+filj                 N      2 5 GEN S M                 
+filius, fili  N (2nd) M   [XXXAX]  
+son;
+
+
+=>
+vir.i                N      2 1 GEN S N                 
+vir.i                N      2 1 LOC S N                 
+virus, viri  N (2nd) N   [XXXAO]  
+venom (sg.), poisonous secretion of snakes/creatures/plants; acrid element;
+vir.i                N      2 2 GEN S N                 
+vir.i                N      2 2 LOC S N                 
+virum, viri  N (2nd) N   [GBXEK]    NeoLatin  uncommon
+virus;
+vir.i                N      2 3 GEN S M                 
+vir.i                N      2 3 LOC S M                 
+vir.i                N      2 3 NOM P M                 
+vir.i                N      2 3 VOC P M                 
+vir, viri  N (2nd) M   [XXXAX]  
+man; husband; hero; person of courage, honor, and nobility;
+vir.i                N      3 3 LOC S F                   Early   
+vir.i                N      3 3 DAT S F                 
+vir.i                N      3 3 ABL S F                 
+vis, viris  N (3rd) F   [XXXAX]  
+strength (bodily) (pl.), force, power, might, violence; resources; large body;
+
+
+=>
+mal.i                N      2 1 GEN S M                 
+mal.i                N      2 1 LOC S M                 
+mal.i                N      2 1 NOM P M                 
+mal.i                N      2 1 VOC P M                 
+malus, mali  N (2nd) M   [XXXDX]    lesser
+mast; beam; tall pole, upright pole; standard, prop, staff;
+mal.i                N      2 1 GEN S F                 
+mal.i                N      2 1 LOC S F                 
+mal.i                N      2 1 NOM P F                 
+mal.i                N      2 1 VOC P F                 
+malus, mali  N (2nd) F   [XXXDX]    lesser
+apple tree;
+mal.i                N      2 2 GEN S N                 
+mal.i                N      2 2 LOC S N                 
+malum, mali  N (2nd) N   [XXXDX]    lesser
+apple; fruit; lemon; quince;
+evil, mischief; disaster, misfortune, calamity, plague; punishment; harm/hurt;
+mal.i                V      6 2 PRES ACTIVE  IMP 2 S    
+malo, malle, malui, -  V   [XXXAX]  
+prefer; incline toward, wish rather;
+mal.i                ADJ    1 1 GEN S M POS             
+mal.i                ADJ    1 1 GEN S N POS             
+mal.i                ADJ    1 1 NOM P M POS             
+mal.i                ADJ    1 1 VOC P M POS             
+malus, mala -um, pejor -or -us, -  ADJ   [XXXAX]  
+bad, evil, wicked; ugly; unlucky;
+
+
+=>
+ne                   TACKON                             
+-ne = is it not that (enclitic); or ...(introduces a question or alternative);
+man.u                N      4 1 ABL S F                 
+manus, manus  N (4th) F   [XXXAX]  
+hand, fist; team; gang, band of soldiers; handwriting; (elephant's) trunk;
+*
+
+=>
+cv.i                 PRON   1 0 DAT S X                 
+ [XXXAO]  
+who; that; which, what; of which kind/degree; person/thing/time/point that;
+who/what/which?, what/which one/man/person/thing? what kind/type of?;
+who/whatever, everyone who, all that, anything that;
+any; anyone/anything, any such; unspecified some; (after si/sin/sive/ne);
+who?, which?, what?; what kind of?;
+
+
+=>
+Two words            
+May be 2 words combined (uniet+vicensimae) If not obvious, probably incorrect
+uni.et               V      4 1 FUT  ACTIVE  IND 3 S    
+unio, unire, univi, unitus  V (4th) TRANS   [XXXEO]    uncommon
+unite, combine into one;
+vicensim.ae          NUM    2 0 GEN S F ORD             
+vicensim.ae          NUM    2 0 DAT S F ORD             
+vicensim.ae          NUM    2 0 NOM P F ORD             
+vicensim.ae          NUM    2 0 VOC P F ORD             
+vicensim  NUM   [BXXEG]    Early  uncommon
+ 20th - (ORD, 'in series'); (a/the) 20th (part) (fract w/pars?);                
+*
+
+=>
+puell.a              N      1 1 NOM S F                 
+puell.a              N      1 1 VOC S F                 
+puell.a              N      1 1 ABL S F                 
+puella, puellae  N (1st) F   [XXXBO]  
+girl, (female) child/daughter; maiden; young woman/wife; sweetheart; slavegirl;
+
+
+=>
+Two words            
+May be 2 words combined (decimes+tres) If not obvious, probably incorrect
+decim.es             V      1 1 PRES ACTIVE  SUB 2 S    
+decimo, decimare, decimavi, decimatus  V (1st) TRANS   [XWXDO]    lesser
+choose by lot every tenth man (for punishment); make tithe offering (to a god);
+tr.es                NUM    1 3 NOM P C CARD            
+tr.es                NUM    1 3 VOC P C CARD            
+tr.es                NUM    1 3 ACC P C CARD            
+tres -es -ia, tertius -a -um, terni -ae -a, ter  NUM   [XXXAX]  
+ 3 - (CARD answers 'how many');                                                 
+*
+
+=>
+puell.a              N      1 1 NOM S F                 
+puell.a              N      1 1 VOC S F                 
+puell.a              N      1 1 ABL S F                 
+puella, puellae  N (1st) F   [XXXBO]  
+girl, (female) child/daughter; maiden; young woman/wife; sweetheart; slavegirl;
+
+
+=>
+Two words            
+May be 2 words combined (uniet+viginti) If not obvious, probably incorrect
+uni.et               V      4 1 FUT  ACTIVE  IND 3 S    
+unio, unire, univi, unitus  V (4th) TRANS   [XXXEO]    uncommon
+unite, combine into one;
+viginti              NUM    2 0 X   X X CARD            
+viginti, vicesimus -a -um, viceni -ae -a, vicie (n)s  NUM   [XXXAX]  
+ 20 - (CARD answers 'how many');                                                
+*
+
+=>
+puell.a              N      1 1 NOM S F                 
+puell.a              N      1 1 VOC S F                 
+puell.a              N      1 1 ABL S F                 
+puella, puellae  N (1st) F   [XXXBO]  
+girl, (female) child/daughter; maiden; young woman/wife; sweetheart; slavegirl;
+
+
+=>
+Two words            
+May be 2 words combined (bestias+viginti) If not obvious, probably incorrect
+besti.as             N      1 1 ACC P F                 
+bestia, bestiae  N (1st) F   [XAXBO]  
+beast, animal, creature; wild beast/animal, beast of prey in arena;
+viginti              NUM    2 0 X   X X CARD            
+viginti, vicesimus -a -um, viceni -ae -a, vicie (n)s  NUM   [XXXAX]  
+ 20 - (CARD answers 'how many');                                                
+*
+
+=>
+puell.a              N      1 1 NOM S F                 
+puell.a              N      1 1 VOC S F                 
+puell.a              N      1 1 ABL S F                 
+puella, puellae  N (1st) F   [XXXBO]  
+girl, (female) child/daughter; maiden; young woman/wife; sweetheart; slavegirl;
+
+
+=>
+Two words            
+It is very likely a compound number    unus + viginti
+un.us                NUM    1 1 NOM S M CARD            
+unus -a -um, primus -a -um, singuli -ae -a, semel  NUM   [XXXAX]  
+ 1 - (CARD answers 'how many');                                                 
+un.us                ADJ    1 3 VOC S M POS             
+unus, una, unum (gen -ius)  ADJ   [XXXEO]    uncommon
+alone, a single/sole; some, some one; only (pl.); one set of (denoting entity);
+viginti              NUM    2 0 X   X X CARD            
+viginti, vicesimus -a -um, viceni -ae -a, vicie (n)s  NUM   [XXXAX]  
+ 20 - (CARD answers 'how many');                                                
+*
+
+=>
+Two words            
+It is very likely a compound number    duo + viginti
+du.o                 NUM    1 2 NOM P M CARD            
+du.o                 NUM    1 2 NOM P N CARD            
+du.o                 NUM    1 2 VOC P M CARD            
+du.o                 NUM    1 2 VOC P N CARD            
+du.o                 NUM    1 2 ACC P M CARD              Early   
+du.o                 NUM    1 2 ACC P N CARD            
+duo -ae o, secundus -a -um, bini -ae -a, bis  NUM   [XXXAX]  
+ 2 - (CARD answers 'how many');                                                 
+viginti              NUM    2 0 X   X X CARD            
+viginti, vicesimus -a -um, viceni -ae -a, vicie (n)s  NUM   [XXXAX]  
+ 20 - (CARD answers 'how many');                                                
+*
+
+=>
+puell.a              N      1 1 NOM S F                 
+puell.a              N      1 1 VOC S F                 
+puell.a              N      1 1 ABL S F                 
+puella, puellae  N (1st) F   [XXXBO]  
+girl, (female) child/daughter; maiden; young woman/wife; sweetheart; slavegirl;
+
+
+=>
+Syncope   s => vis   
+Syncopated perfect often drops the 'v' and contracts vowel
+amav.isti            V      1 1 PERF ACTIVE  IND 2 S    
+amo, amare, amavi, amatus  V (1st)   [XXXAO]  
+love, like; fall in love with; be fond of; have a tendency to;
+
+perseu                           ========   UNKNOWN    
+
+
+=>
+Slur in/i~           
+An initial 'in' may be rendered by i~
+immin.et             V      2 1 PRES ACTIVE  IND 3 S    
+immineo, imminere, -, -  V (2nd)   [XXXBX]  
+threaten, be a threat (to); overhang, be imminent; with DAT;
+
+t                    SUFFIX                             
+-ed, having, having a, provided with; -able;
+cott.o               ADJ    1 1 DAT S M POS             
+cott.o               ADJ    1 1 DAT S N POS             
+cott.o               ADJ    1 1 ABL S M POS             
+cott.o               ADJ    1 1 ABL S N POS             
+cos, cotis  N (3rd) F   [XXXCO]  
+flint-stone; whetstone, hone, grinding stone; rocks (pl.); any hard stone (L+S)
+cotes, cotis  N (3rd) F   [XXXBO]  
+rough pointed/detached rock, loose stone; rocks (pl.), cliff, crag; reef;
+
+
+=>
+Syncope   s => vis   
+Syncopated perfect often drops the 'v' and contracts vowel
+amav.isti            V      1 1 PERF ACTIVE  IND 2 S    
+amo, amare, amavi, amatus  V (1st)   [XXXAO]  
+love, like; fall in love with; be fond of; have a tendency to;
+
+reser.et             V      1 1 PRES ACTIVE  SUB 3 S    
+resero, reserare, reseravi, reseratus  V (1st)   [XXXBX]  
+open up, unseal, unbar (gate/door), unfasten; make accessible; uncover, expose;
+
+
+=>
+que                  TACKON                             
+-que = and (enclitic, translated before attached word); completes plerus/uter;
+Syncope   s => vis   
+Syncopated perfect often drops the 'v' and contracts vowel
+amav.isti            V      1 1 PERF ACTIVE  IND 2 S    
+amo, amare, amavi, amatus  V (1st)   [XXXAO]  
+love, like; fall in love with; be fond of; have a tendency to;
+
+
+=>
+que                  TACKON                             
+-que = and (enclitic, translated before attached word); completes plerus/uter;
+am.at                V      1 1 PRES ACTIVE  IND 3 S    
+amo, amare, amavi, amatus  V (1st)   [XXXAO]  
+love, like; fall in love with; be fond of; have a tendency to;
+
+at                   PREFIX                             
+- to, towards, near, for, together (adeo => go to);
+ten.e                V      2 1 PRES ACTIVE  IMP 2 S    
+teneo, tenere, tenui, tentus  V (2nd)   [XXXAX]  
+hold, keep; comprehend; possess; master; preserve; [tenere memoria => remember]
+represent; support;
+
+
+=>
+que                  TACKON                             
+-que = and (enclitic, translated before attached word); completes plerus/uter;
+vir.um               N      2 2 NOM S N                 
+vir.um               N      2 2 VOC S N                 
+vir.um               N      2 2 ACC S N                 
+virum, viri  N (2nd) N   [GBXEK]    NeoLatin  uncommon
+virus;
+vir.um               N      2 3 ACC S M                 
+vir, viri  N (2nd) M   [XXXAX]  
+man; husband; hero; person of courage, honor, and nobility;
+vir.um               N      3 3 GEN P F                 
+vis, viris  N (3rd) F   [XXXAX]  
+strength (bodily) (pl.), force, power, might, violence; resources; large body;
+*
+traque                           ========   UNKNOWN    
+
+

@@ -525,8 +525,10 @@ is
          Jj      : Integer := 0;
          Diff_J  : Integer := 0;
          subtype Xons is Part_Of_Speech_Type range Tackon .. Suffix;
+         J : Integer := Pa_Last;
+         Empty_First : Integer;
       begin
-         for J in reverse 1 .. Pa_Last loop --  Sweep backwards over PA
+         while J >= 1 loop --  Sweep backwards over PA
 
             if ((Pa (J).D_K in Addons .. Yyy) or (Pa (J).IR.Qual.Pofs in Xons))
               and then Pw_On
@@ -548,6 +550,23 @@ is
                Pa (P_Last - Diff_J + 1 .. Pa_Last - Diff_J) :=
                  Pa (P_Last + 1 .. Pa_Last);
                Pa_Last := Pa_Last - Diff_J;
+               if P_Last - Diff_J < P_First then
+                  --  The subset is empty: remove its whole addon chain.
+                  Empty_First := J;
+                  while Empty_First > 1 and then
+                    (Pa (Empty_First - 1).D_K in Addons .. Yyy or else
+                     Pa (Empty_First - 1).IR.Qual.Pofs in Xons)
+                  loop
+                     Empty_First := Empty_First - 1;
+                  end loop;
+                  Pa (Empty_First ..
+                    Pa_Last - (J - Empty_First + 1)) :=
+                      Pa (J + 1 .. Pa_Last);
+                  Pa_Last := Pa_Last - (J - Empty_First + 1);
+                  J := Empty_First;
+                  Fix_On := False;
+                  Diff_J := 0;
+               end if;
                P_First := 1;
                P_Last  := 0;
 
@@ -578,6 +597,7 @@ is
                end if;
             end if;                                      --  check PART
 
+            J := J - 1;
          end loop;                          --  loop sweep over PA
       end Sweeping;
 
